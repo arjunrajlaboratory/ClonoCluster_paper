@@ -87,7 +87,11 @@ pll <- lapply(sn_v[c(3,1:2,4:5)], function(sn){
           scale_y_continuous(limits = c(50,100), labels = function(x) {(x / 100) %>% scales::percent()}) +
           xlab(NULL) +
           ylab("Marker AUC\n") +
-          ggtitle(paste(tv[names(tv) == sn], "\ntop marker per cluster", sep = ""))
+          ggtitle(paste(tv[names(tv) == sn], "\ntop cluster markers", sep = ""))
+
+  fn <- paste("../Figs/", sn, "_top_markers_boxplot.png", sep = "")
+
+  ggsave(plot = p4, fn, width = 2.5, height = 2.5, limitsize = FALSE)
 
   return(p4)
 
@@ -124,6 +128,10 @@ pll <- lapply(sn_v[c(3,1:2,4:5)], function(sn){
           xlab(NULL) +
           ylab("Cohen's kappa\nbarcodes to clusters\n") +
           ggtitle(tv[names(tv) == sn])
+
+  fn <- paste("../Figs/", sn, "_cohens_k_boxplot.png", sep = "")
+
+  ggsave(plot = p2, fn, width = 2.5, height = 2.5 * length(pll), limitsize = FALSE)
 
   return(p2)
 
@@ -184,6 +192,10 @@ vl <- lapply(c(1:5), function(r){
     grid::grid.newpage()
 
     grid::grid.draw(venn.plot)
+
+    fn <- paste("../Figs/", sn, "venn.png",sep = "")
+
+    ggsave(plot = venn.plot, fn, width = 2.5, height = 2.5)
 
     return(venn.plot)
 

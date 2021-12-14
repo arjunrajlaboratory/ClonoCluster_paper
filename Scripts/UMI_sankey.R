@@ -20,47 +20,52 @@ lapply(sn_v, function(sn){
 
   al <- c(mt[sample_id == sn, alevel2], mt[sample_id == sn, alevel])
 
-  gl <- c("COL6A1", "Col6a1")
+  glo <- c("COL6A1", "Col6a1", "ITGB1", "Itgb1")
 
   gt <- data.table::fread(paste("../Data_genes/", sn, "_genes.txt", sep = ""))
 
-  g <- gl[gl %chin% gt[, rn]]
+  lapply(glo, function(gl){
 
-  if (length(g) == 0) next()
+    g <- gl[gl %chin% gt[, rn]]
 
-  gt <- gt[rn == g, .SD, .SDcols = 2:ncol(gt)] %>% t
+    if (length(g) == 0) return(NULL)
 
-  colnames(gt) <- g
+    gt <- gt[rn == g, .SD, .SDcols = 2:ncol(gt)] %>% t
 
-  if(sn == "CJ") rownames(gt) %<>% stringr::str_replace("-[0-9]$", "")
+    colnames(gt) <- g
 
-  if(sn == "NJ") rownames(gt) <- rownames(gt) %>%
-    stringr::str_replace("^S[0-9]_", "") %>%
-    stringr::str_replace("-[0-9]$", "")
+    if(sn == "CJ") rownames(gt) %<>% stringr::str_replace("-[0-9]$", "")
 
-  dl <- data.table::fread(paste("../Processed_data/", sn, "_cluster_assignments.txt", sep = ""))
+    if(sn == "NJ") rownames(gt) <- rownames(gt) %>%
+      stringr::str_replace("^S[0-9]_", "") %>%
+      stringr::str_replace("-[0-9]$", "")
 
-  ttheme <- theme(axis.title = element_text(size = 8, face = "bold", color = "black"),
-                  axis.text = element_text(size = 8, color = "black"),
-                  axis.text.x = element_text(size = 8, color = "black", angle = 35, hjust = 1),
-                  plot.title = element_text(size = 8, face = "bold", color = "black", hjust = 0.5),
-                  plot.subtitle = element_text(size = 8, color = "black"))
+    dl <- data.table::fread(paste("../Processed_data/", sn, "_cluster_assignments.txt", sep = ""))
 
-  dl <- dl[alpha %in% c(0, al)]
+    ttheme <- theme(axis.title = element_text(size = 8, face = "bold", color = "black"),
+                    axis.text = element_text(size = 8, color = "black"),
+                    axis.text.x = element_text(size = 8, color = "black", angle = 35, hjust = 1),
+                    plot.title = element_text(size = 8, face = "bold", color = "black", hjust = 0.5),
+                    plot.subtitle = element_text(size = 8, color = "black"))
 
-  p2 <- Plot_alluvia_counts(dl,
-                            counts = gt,
-                            title = paste(tv[names(tv) == sn], ": ", g, sep = ""),
-                            ylab = "Number of cells",
-                            xlab = NULL,
-                            border_size = 0.25,
-                            label_nodes = FALSE
-                            )
+    dl <- dl[alpha %in% c(0, al)]
 
-  p2 <- p2 + ttheme +
-    scale_x_discrete(labels = c("Transcriptome", "Low alpha", "High alpha", "Barcodes")) +
-    theme(legend.key.size = unit(2.5, "mm"))
+    p2 <- Plot_alluvia_counts(dl,
+                              counts = gt,
+                              title = paste(tv[names(tv) == sn], ": ", g, sep = ""),
+                              ylab = "Number of cells",
+                              xlab = NULL,
+                              border_size = 0.25,
+                              label_nodes = FALSE
+                              )
 
-  ggsave(plot = p2, paste("../Figs/", sn, "_", g, "_UMI_alluvia.png", sep = ""), height = 3, width = 3)
+    p2 <- p2 + ttheme +
+      scale_x_discrete(labels = c("Transcriptome", "Low alpha", "High alpha", "Barcodes")) +
+      scale_color_gradient(low = "gray100", high = "darkblue", breaks = c(0, 5, 10, 15), limits = c(-3,18)) +
+      theme(legend.key.size = unit(2.5, "mm"))
+
+    ggsave(plot = p2, paste("../Figs/", sn, "_", g, "_UMI_alluvia.png", sep = ""), height = 3, width = 3)
+
+  })
 
 })

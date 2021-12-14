@@ -128,6 +128,10 @@ hml <- lapply(1:nrow(mt), function(r){
   hm$gtable$grobs[[3]]$hjust <- 1
   hm$gtable$grobs[[3]]$vjust <- 0.5
 
+  ggsave(plot = hm$gtable,
+    filename = paste("../Figs/", sn, "_rearrangement_genesets_hm.png", sep = ""),
+    width = 4, height = 3, limitsize = FALSE)
+
   return(hm$gtable)
 
 })
@@ -141,4 +145,4 @@ for (i in 1:(length(hml) - 1)){
 
 plot <- cowplot::plot_grid(plotlist = hml, ncol = 1, scale = 1)
 
-ggsave(plot = plot, filename = "../Figs/Rearrangement_genesets_hm.png", width = 3.5, height = 9, limitsize = FALSE)
+ggsave(plot = plot, filename = "../Figs/Rearrangement_genesets_hm.png", width = 4, height = 9, limitsize = FALSE)

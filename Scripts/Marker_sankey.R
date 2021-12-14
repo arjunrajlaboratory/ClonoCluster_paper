@@ -182,6 +182,10 @@ lapply(sn_v, function(sn){
     p <- p + ttheme +
       scale_x_discrete(labels = c("Transcriptome", "Low alpha", "High alpha"))
 
+    fn <- paste("../Figs/", sn, "_", g, "_auc_sankey.png", sep = "")
+
+    ggsave(plot = p, fn, width = 2.75, height = 2.75)
+
     return(p)
 
   })
