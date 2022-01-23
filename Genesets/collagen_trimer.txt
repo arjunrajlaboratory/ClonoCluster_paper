@@ -1,0 +1,135 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:106675	Adipoq	adiponectin, C1Q and collagen domain containing	16		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88223	C1qa	complement component 1, q subcomponent, alpha polypeptide	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88224	C1qb	complement component 1, q subcomponent, beta polypeptide	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88225	C1qc	complement component 1, q subcomponent, C chain	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1344400	C1ql1	complement component 1, q subcomponent-like 1	11		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:3032521	C1ql2	complement component 1, q subcomponent-like 2	1		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2387350	C1ql3	C1q-like 3	2		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:3579909	C1ql4	complement component 1, q subcomponent-like 4	15		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1919254	C1qtnf1	C1q and tumor necrosis factor related protein 1	11		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1916433	C1qtnf2	C1q and tumor necrosis factor related protein 2	11		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1932136	C1qtnf3	C1q and tumor necrosis factor related protein 3	15		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1919959	C1qtnf6	C1q and tumor necrosis factor related protein 6	15		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1925911	C1qtnf7	C1q and tumor necrosis factor related protein 7	5		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:3045252	C1qtnf9	C1q and tumor necrosis factor related protein 9	14		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2445053	Ccbe1	collagen and calcium binding EGF domains 1	18		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen trimer	is a part of skin		IDA		J:34409 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen trimer	is a part of dermis,is a part of fibroblast		IDA		J:59168 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen trimer			IDA		J:22301 J:113133 J:128284 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen trimer	is a part of aorta,is a part of aorta		IMP	MGI:2179405 	J:92016 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer			IBA	PTN001166556 	J:265628 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer	is a part of tooth		IDA		J:19003 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer	is a part of dermis connective tissue,is a part of dermis connective tissue		IMP	MGI:1857154 	J:26504 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer			ISO	P02452 	J:164563 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen trimer	is a part of skin		IDA		J:34409 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen trimer	is a part of dermis,is a part of fibroblast		IDA		J:59168 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen trimer			IDA		J:128284 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen type I trimer			IBA	PTN002770820 	J:265628 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen type I trimer			IDA		J:20667 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen type I trimer			ISO	P08123 	J:164563 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen trimer			IBA	PTN002771202 	J:265628 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen trimer	is a part of long bone epiphyseal plate		IDA		J:166870 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen trimer			IDA		J:128357 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer			IBA	PTN001166557 	J:265628 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer	is a part of scapula,is a part of chondrocyte|is a part of humerus,is a part of chondrocyte		IDA		J:52896 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer	is a part of EMAPA:35508		IMP	MGI:1857275 	J:6582 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer			ISO	P02458 	J:164563 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen trimer	is a part of skin		IDA		J:34409 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen trimer			IDA		J:128284 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen type III trimer			IDA		J:20667 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen type III trimer			ISO	P02461 	J:164563 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen trimer			IEA	IPR001442 IPR036954 	J:72247 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen type IV trimer			IDA		J:78275 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen type IV trimer			ISO	P02462 	J:164563 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen trimer			IEA	IPR001442 IPR036954 	J:72247 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen type IV trimer			IBA	PTN002770666 	J:265628 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen type IV trimer			IDA		J:78275 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		collagen trimer			IEA	IPR001442 IPR036954 	J:72247 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		collagen type IV trimer			IDA		J:78275 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		collagen type IV trimer			ISO	Q01955 	J:164563 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen trimer			IEA	IPR001442 IPR036954 	J:72247 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen type IV trimer			IBA	PTN002513086 	J:265628 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen type IV trimer			IDA		J:21122 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen type IV trimer			ISO	P53420 	J:164563 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		collagen type IV trimer			IDA		J:78275 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		collagen type IV trimer			IBA	PTN002770666 	J:265628 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		collagen type IV trimer			IDA		J:70987 J:78275 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen trimer			IDA		J:128357 J:113133 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen trimer			IMP	MGI:3664598 	J:112728 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen type V trimer			IBA	PTN002771332 	J:265628 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen type V trimer			ISO	P20908 	J:164563 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen trimer			IDA		J:22301 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen type V trimer			IBA	PTN002770842 	J:265628 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen type V trimer			ISO	P05997 	J:164563 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		collagen type V trimer			IDA		J:99592 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		collagen type V trimer			ISS		J:61325 	
+MGI:88459	Col6a1	collagen, type VI, alpha 1	10		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88460	Col6a2	collagen, type VI, alpha 2	10		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		collagen trimer			IDA		J:208903 	
+MGI:1915803	Col6a4	collagen, type VI, alpha 4	9		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:3648134	Col6a5	collagen, type VI, alpha 5	9		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2444259	Col6a6	collagen, type VI, alpha 6	9		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88462	Col7a1	collagen, type VII, alpha 1	9		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88463	Col8a1	collagen, type VIII, alpha 1	16		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88464	Col8a2	collagen, type VIII, alpha 2	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88465	Col9a1	collagen, type IX, alpha 1	1		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88465	Col9a1	collagen, type IX, alpha 1	1		collagen type IX trimer			IBA	PTN002770847 	J:265628 	
+MGI:88465	Col9a1	collagen, type IX, alpha 1	1		collagen type IX trimer			ISO	P20849 	J:164563 	
+MGI:88466	Col9a2	collagen, type IX, alpha 2	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88466	Col9a2	collagen, type IX, alpha 2	4		collagen type IX trimer			ISO	Q14055 	J:164563 	
+MGI:894686	Col9a3	collagen, type IX, alpha 3	2		collagen type IX trimer			IBA	PTN002770682 	J:265628 	
+MGI:894686	Col9a3	collagen, type IX, alpha 3	2		collagen type IX trimer			ISO	Q14050 	J:164563 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		collagen trimer	is a part of long bone epiphyseal plate hypertrophic zone|is a part of femur		IDA		J:166870 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		collagen type X trimer			ISO	Q03692 	J:164563 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		collagen trimer			IDA		J:128357 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		collagen type XI trimer			IBA	PTN002771318 	J:265628 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		collagen type XI trimer			ISO	P12107 	J:164563 	
+MGI:88447	Col11a2	collagen, type XI, alpha 2	17		collagen trimer			IBA	PTN002771346 	J:265628 	
+MGI:88447	Col11a2	collagen, type XI, alpha 2	17		collagen trimer			IDA		J:128357 	
+MGI:88448	Col12a1	collagen, type XII, alpha 1	9		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1277201	Col13a1	collagen, type XIII, alpha 1	10		collagen trimer			IBA	PTN002771202 	J:265628 	
+MGI:1341272	Col14a1	collagen, type XIV, alpha 1	15		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88449	Col15a1	collagen, type XV, alpha 1	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1095396	Col16a1	collagen, type XVI, alpha 1	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1095396	Col16a1	collagen, type XVI, alpha 1	4		collagen type V trimer			IBA	PTN002770842 	J:265628 	
+MGI:88450	Col17a1	collagen, type XVII, alpha 1	19		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1095415	Col19a1	collagen, type XIX, alpha 1	1		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1920618	Col20a1	collagen, type XX, alpha 1	2		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2653243	Col23a1	collagen, type XXIII, alpha 1	11		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1918605	Col24a1	collagen, type XXIV, alpha 1	3		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1924268	Col25a1	collagen, type XXV, alpha 1	3		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2155345	Col26a1	collagen, type XXVI, alpha 1	5		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2672118	Col27a1	collagen, type XXVII, alpha 1	4		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2672118	Col27a1	collagen, type XXVII, alpha 1	4		fibrillar collagen trimer	is a part of cartilage|is a part of rib		IDA		J:121268 	
+MGI:2685312	Col28a1	collagen, type XXVIII, alpha 1	6		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:3606482	Colec10	collectin sub-family member 10	15		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1918943	Colec11	collectin sub-family member 11	12		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2152907	Colec12	collectin sub-family member 12	18		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1338761	Colq	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	14		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1915838	Cthrc1	collagen triple helix repeat containing 1	15		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:94872	Dcn	decorin	10		collagen type VI trimer			ISO	RGD:61895 	J:155856 	
+MGI:1195272	Eda	ectodysplasin-A	X		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2155091	Emid1	EMI domain containing 1	11		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1926189	Emilin1	elastin microfibril interfacer 1	5		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2389136	Emilin2	elastin microfibril interfacer 2	17		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1340905	Fcna	ficolin A	2		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1341158	Fcnb	ficolin B	2		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2388361	Gldn	gliomedin	9		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:96817	Lox	lysyl oxidase	18		collagen trimer			IDA		J:17962 	
+MGI:109347	Lum	lumican	10		fibrillar collagen trimer			ISO	P51884 	J:164563 	
+MGI:1309998	Marco	macrophage receptor with collagenous structure	1		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:96923	Mbl1	mannose-binding lectin (protein A) 1	14		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:96924	Mbl2	mannose-binding lectin (protein C) 2	19		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:98257	Msr1	macrophage scavenger receptor 1	8		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2685260	Otol1	otolin 1	3		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:2685260	Otol1	otolin 1	3		collagen type IV trimer			IBA	PTN002770666 	J:265628 	
+MGI:2444418	Scara3	scavenger receptor class A, member 3	14		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:109515	Sftpd	surfactant associated protein D	14		collagen trimer			IEA	KW-0176 	J:60000 	
+MGI:1921570	Wdr33	WD repeat domain 33	18		collagen trimer			IEA	KW-0176 	J:60000 	
+

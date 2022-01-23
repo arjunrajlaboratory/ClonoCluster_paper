@@ -4,26 +4,18 @@ library(BarCluster)
 library(ggplot2)
 library(WebGestaltR)
 
-sn_v <- c(paste("YG", 1:3, sep = ""), "Kleind2ws", "CJ")
+set.seed(42)
 
-tv <- c("High dose BRAFi - 1", "High dose BRAFi - 2", "Low dose BRAFi", "In Vitro Hematopoiesis Day 2", "Cardio-directed iPSC", "Neuro-directed iPSC")
+source("Constants.R")
 
-names(tv) <- sn_v
-
-# cutoffs determined by max alpha before cluster number increases
-mt <- data.table::data.table(sample_id = sn_v,
-  alevel = c(0.55, 0.6, 0.6, 0.75, 0.55))
-
-mt[, alevel2 := (alevel / 2) %>% round(digits = 1)]
+# set cores for reorg marker analysis
+ncores <- 4
 
 lapply(sn_v, function(sn){
 
   set.seed(42)
 
-  res <- 1
-
-  if (sn %like% "Klein") res <- 0.6
-
+  # get and transpose gene counts
   gt <- data.table::fread(paste("../Data_genes/", sn, "_genes.txt", sep = ""))
 
   rn <- gt[, rn]
@@ -38,8 +30,10 @@ lapply(sn_v, function(sn){
     stringr::str_replace("^S[0-9]_", "") %>%
     stringr::str_replace("-[0-9]$", "")
 
+  # barcodes
   bt <- paste("../Data_barcodes/", sn, "_barcodes.tsv", sep = "") %>% data.table::fread()
 
+  # make sure only barcoded cells included
   bt <- bt[cellID %chin% rownames(gt)]
 
   gt <- gt[bt[, cellID], ]
@@ -48,24 +42,28 @@ lapply(sn_v, function(sn){
 
   al <- mt[sample_id == sn, c(alevel2, alevel)]
 
+  # get hybrid cluster assignments
   dl <- data.table::fread(
     paste("../Processed_data/", sn, "_cluster_assignments.txt", sep = "")
   )
 
   dl <- dl[alpha %in% c(0, al, 1)]
 
+  # wrapping ROC so it works with apply
   fast_comp <- function(v, x, y){
 
     a <- ROCR_wrap(x = v[x], y = v[y])
 
   }
 
+  # get transcriptome markers
   tr <- dl[alpha == 0]
 
   pb <- utils::txtProgressBar(min = 0,
     max = length(tr[, Group %>% unique %>% length]),
     style = 3)
 
+  # loop to find transcriptome markers
   tr_auc <- lapply(tr[, Group %>% unique], function(go){
 
     utils::setTxtProgressBar(pb, which(go == tr[, Group %>% unique]))
@@ -88,11 +86,13 @@ lapply(sn_v, function(sn){
 
   close(pb)
 
+  # loop to test for reorganization markers and hybrid cluster markers
   spl <- parallel::mclapply(dl[, alpha %>% unique], function(a){
 
     print("alpha")
     print(a)
 
+    # get hybrid clusters at alpha
     lin <- dl[alpha == a]
 
     print("getting lin clusters")
@@ -101,16 +101,19 @@ lapply(sn_v, function(sn){
       max = length(lin[, Group %>% unique %>% sort %>% length]),
       style = 3)
 
+    # loop over hybrid clusters at this level and get markers for clusters
     lin_auc <- lapply(lin[, Group %>% unique %>% sort], function(go){
 
       utils::setTxtProgressBar(pb, which(go == lin[, Group %>% unique %>% sort]))
 
       print(go)
 
+      # get cells in the group
       ing <- lin[Group == go, rn]
 
       if (length(ing) < 10) return(NULL)
 
+      # get all other cells
       outg <- lin[Group != go, rn]
 
       auc <- apply(gt, 2, function(x) fast_comp(x, ing, outg))
@@ -131,6 +134,7 @@ lapply(sn_v, function(sn){
       max = length(lin[, Group %>% unique %>% length]),
       style = 3)
 
+    # loop over hybrid clusters at this level to get reorg markers
     splits <- lapply(lin[, Group %>% unique], function(go){
 
       utils::setTxtProgressBar(pb, which(go == lin[, Group %>% unique]))
@@ -138,14 +142,18 @@ lapply(sn_v, function(sn){
       print("lineage")
       print(go)
 
+      # get hybrid cluster members
       d <- lin[Group == go]
 
+      # subset transcriptome cluster assignments on the hybrid to get contributing cells
       tri <- tr[rn %chin% d[, rn]]
 
+      # loop over contributing transcriptome clusters
       inner <- lapply(tri[, Group %>% unique %>% sort], function(g){
 
         print(g)
 
+        # transcriptome cluster cells that go to hybrid cluster of interest
         ing <- tri[Group == g, rn]
 
         if (length(ing) < 10){
@@ -155,8 +163,11 @@ lapply(sn_v, function(sn){
           return(NULL)
         }
 
+        # all other non-contributing cells in the transcriptome cluster
         outg <- tr[Group == g & !rn %chin% ing, rn]
 
+        # return just straight transcriptome cluster markers for alpha == 0
+        # when entire cluster is eaten by another cluster
         if (length(outg) == 0){
 
           d <- tr_auc[tr == g]
@@ -167,6 +178,7 @@ lapply(sn_v, function(sn){
 
         }
 
+        # get AUC
         auc <- apply(gt, 2, function(x) fast_comp(x, ing, outg))
 
         d <- data.table::as.data.table(auc, keep.rownames = TRUE)
@@ -193,7 +205,7 @@ lapply(sn_v, function(sn){
 
     return(list(splits, lin_auc))
 
-  }, mc.cores = 4)
+  }, mc.cores = ncores)
 
   split_l <- lapply(spl %>% seq_along, function(n){
 
@@ -207,15 +219,18 @@ lapply(sn_v, function(sn){
 
   }) %>% data.table::rbindlist(use.names = TRUE)
 
+  # table of reorg marker tests
   split_l %>% data.table::fwrite(paste("../Processed_data/", sn, "_auc_barcodes.txt", sep = ""), sep = "\t")
 
+  # table of hybrid cluster markers
   lin_l %>% data.table::fwrite(paste("../Processed_data/", sn, "_auc_linclust.txt", sep = ""), sep = "\t")
 
 })
 
-# analysis of genesets for barcode rearrangements
+# analysis of reorganization marker overrepresentation
 fl <- list.files("../Processed_data", pattern = "auc_barcodes.txt", full.names = TRUE)
 
+# read reorg marker tables for each sample
 gst <- lapply(sn_v, function(i){
 
   f <- fl[fl %like% i]
@@ -230,19 +245,25 @@ gst <- lapply(sn_v, function(i){
 
 }) %>% data.table::rbindlist()
 
+# GO search space
 GOs <- c("geneontology_Cellular_Component_noRedundant",
         "geneontology_Molecular_Function_noRedundant")
 
+# get tempdir
 dn <- tempdir()
 
+# loop over samples
 fl_ora <- lapply(gst[, sample_id %>% unique], function(si){
 
   g <- gst[sample_id == si]
 
+  # only evaluate markers with AUC > 0.8
   gl <- g[auc > 80, rn %>% unique, by = c("alpha", "lin", "tr")]
 
+  # split into hybrid cluster contributing transcriptome cluster pairs
   gl %<>% split(by = c("alpha", "lin", "tr"))
 
+  # loop over pairs
   dl <- lapply(gl %>% seq_along, function(n){
 
     d <- gl[[n]]
@@ -264,6 +285,7 @@ fl_ora <- lapply(gst[, sample_id %>% unique], function(si){
             highlightType = "Seeds", highlightSeedNum = 10, nThreads = 1,
             cache = NULL, hostName = "http://www.webgestalt.org/"))
 
+    # handle error of empty return if no significantly diff gene sets
     if(class(gs)[1] == "try-error"){
 
       warning(paste("Try-error at alpha", d[, alpha %>% unique], "iter", d[, lin %>% unique]))
@@ -274,6 +296,7 @@ fl_ora <- lapply(gst[, sample_id %>% unique], function(si){
 
     if (is.null(gs) || nrow(gs) == 0) return(NULL)
 
+    # curate output columns
     gs %<>% as.data.table %>% .[, .SD, .SDcols = c(1:2, 7:9)]
 
     gs[, alpha := d[, alpha %>% unique]]

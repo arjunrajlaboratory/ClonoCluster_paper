@@ -1,0 +1,1322 @@
+MGI Gene/Marker ID	Symbol	Name	Chr	Qualifier	Annotated Term	Context	Proteoform	Evidence	Inferred From	Reference(s)
+MGI:1925709	1700057G04Rik	RIKEN cDNA 1700057G04 gene	9		collagen-containing extracellular matrix			ISO	O15162 	J:164563 	
+MGI:1916792	2300002M23Rik	RIKEN cDNA 2300002M23 gene	17		extracellular matrix			IBA	PTN001438794 	J:265628 	
+MGI:1916792	2300002M23Rik	RIKEN cDNA 2300002M23 gene	17		extracellular matrix			IDA		J:139122 	
+MGI:1916792	2300002M23Rik	RIKEN cDNA 2300002M23 gene	17		interstitial matrix	is a part of cartilage		IDA		J:139122 	
+MGI:2442118	9530053A07Rik	RIKEN cDNA 9530053A07 gene	7		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:2444583	Abi3bp	ABI family member 3 binding protein	16		collagen-containing extracellular matrix	is a part of lung|is a part of colon	UniProtKB:Q59IW6	HDA		J:265604 	
+MGI:2444583	Abi3bp	ABI family member 3 binding protein	16		collagen-containing extracellular matrix			IBA	PTN002754873 	J:265628 	
+MGI:2444583	Abi3bp	ABI family member 3 binding protein	16		extracellular matrix			IDA		J:139122 	
+MGI:2444583	Abi3bp	ABI family member 3 binding protein	16		interstitial matrix	is a part of tendon|is a part of ligament		IDA		J:139122 	
+MGI:99602	Acan	aggrecan	7		basement membrane	is a part of metanephros		IDA		J:102464 	
+MGI:99602	Acan	aggrecan	7		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:99602	Acan	aggrecan	7		extracellular matrix	is a part of tibia		IDA		J:128547 	
+MGI:99602	Acan	aggrecan	7		extracellular matrix			IDA		J:86321 	
+MGI:99602	Acan	aggrecan	7		perineuronal net			ISO	RGD:68358 	J:155856 	
+MGI:99602	Acan	aggrecan	7		perisynaptic extracellular matrix	is a part of glutamatergic synapse,is a part of hippocampal formation		IDA		J:263381 	
+MGI:99602	Acan	aggrecan	7		perisynaptic extracellular matrix	is a part of GABA-ergic synapse,is a part of hippocampal formation		IDA		J:263381 	
+MGI:87876	Ache	acetylcholinesterase	5		basement membrane	is a part of EMAPA:32716		IDA		J:23783 	
+MGI:109548	Adam10	a disintegrin and metallopeptidase domain 10	9		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:109548	Adam10	a disintegrin and metallopeptidase domain 10	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:105377	Adam19	a disintegrin and metallopeptidase domain 19 (meltrin beta)	11		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:109249	Adamts1	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 1	16		basement membrane	is a part of metanephros		IDA		J:102464 	
+MGI:109249	Adamts1	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 1	16		collagen-containing extracellular matrix			ISO	RGD:621241 	J:155856 	
+MGI:109249	Adamts1	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 1	16		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:109249	Adamts1	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 1	16		extracellular matrix			IDA		J:54300 J:86134 	
+MGI:1347356	Adamts2	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 2	11		collagen-containing extracellular matrix			IEA	IPR013275 	J:72247 	
+MGI:1347356	Adamts2	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 2	11		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1347356	Adamts2	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 2	11		extracellular matrix			IDA		J:107394 	
+MGI:3045353	Adamts3	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 3	5		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1339949	Adamts4	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4	1		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:1339949	Adamts4	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 4	1		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1346321	Adamts5	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 5 (aggrecanase-2)	16		collagen-containing extracellular matrix			IEA	IPR013276 	J:72247 	
+MGI:1346321	Adamts5	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 5 (aggrecanase-2)	16		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1347348	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	13		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1347346	Adamts7	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 7	9		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1353468	Adamts8	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 8	9		collagen-containing extracellular matrix			IEA	IPR013277 	J:72247 	
+MGI:1353468	Adamts8	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 8	9		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1916320	Adamts9	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 9	6		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1916320	Adamts9	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 9	6		extracellular matrix			ISO	Q9P2N4 	J:73065 	
+MGI:2449112	Adamts10	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 10	17		collagen-containing extracellular matrix			ISO	Q9H324 	J:164563 	
+MGI:2449112	Adamts10	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 10	17		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2449112	Adamts10	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 10	17		microfibril			ISO	Q9H324 	J:164563 	
+MGI:2146046	Adamts12	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 12	15		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2685556	Adamts13	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 13	2		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2179942	Adamts14	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 14	10		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2449569	Adamts15	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 15	9		collagen-containing extracellular matrix			IEA	IPR013277 	J:72247 	
+MGI:2449569	Adamts15	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 15	9		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2429637	Adamts16	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 16	13		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:3588195	Adamts17	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 17	7		collagen-containing extracellular matrix	is a part of lung	UniProtKB:D3YX90	HDA		J:265604 	
+MGI:3588195	Adamts17	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 17	7		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2442600	Adamts18	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 18	8		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2442875	Adamts19	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 19	18		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2660628	Adamts20	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 20	15		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1924989	Adamtsl1	ADAMTS-like 1	4		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1924989	Adamtsl1	ADAMTS-like 1	4		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1924989	Adamtsl1	ADAMTS-like 1	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1924989	Adamtsl1	ADAMTS-like 1	4		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1925044	Adamtsl2	ADAMTS-like 2	2		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1925044	Adamtsl2	ADAMTS-like 2	2		extracellular matrix			IDA		J:124013 	
+MGI:3028499	Adamtsl3	ADAMTS-like 3	7		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:2389008	Adamtsl4	ADAMTS-like 4	3		extracellular matrix			IDA		J:139122 	
+MGI:2389008	Adamtsl4	ADAMTS-like 4	3		interstitial matrix	is a part of tendon|is a part of ligament		IDA		J:139122 	
+MGI:1913798	Adamtsl5	ADAMTS-like 5	10		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1913798	Adamtsl5	ADAMTS-like 5	10		extracellular matrix	is a part of rib cartilage		IDA		J:192744 	
+MGI:1913798	Adamtsl5	ADAMTS-like 5	10		extracellular matrix			ISO	Q6ZMM2 	J:73065 	
+MGI:1913798	Adamtsl5	ADAMTS-like 5	10		microfibril			ISO	Q6ZMM2 	J:164563 	
+MGI:87961	Agrn	agrin	4		basement membrane		PR:M0QWP1	IDA		J:64996 	
+MGI:87961	Agrn	agrin	4		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:87961	Agrn	agrin	4		basement membrane	is a part of glomerular tuft,is a part of glomerular tuft		IDA		J:27732 	
+MGI:87961	Agrn	agrin	4		basement membrane			ISO	RGD:2067 	J:155856 	
+MGI:87961	Agrn	agrin	4		basement membrane			ISO	O00468 	J:164563 	
+MGI:87961	Agrn	agrin	4		collagen-containing extracellular matrix	is a part of lung	UniProtKB:A2ASQ1-2	HDA		J:265604 	
+MGI:87961	Agrn	agrin	4		collagen-containing extracellular matrix			ISO	O00468 	J:164563 	
+MGI:107189	Ahsg	alpha-2-HS-glycoprotein	16		collagen-containing extracellular matrix			ISO	RGD:2075 	J:155856 	
+MGI:107189	Ahsg	alpha-2-HS-glycoprotein	16		extracellular matrix			IBA	PTN002674782 	J:265628 	
+MGI:87991	Alb	albumin	5		basement membrane			ISO	RGD:2085 	J:155856 	
+MGI:87983	Alpl	alkaline phosphatase, liver/bone/kidney	4		extracellular matrix	is a part of bone		IDA		J:179862 	
+MGI:104655	Ambn	ameloblastin	5		extracellular matrix			TAS		J:50559 	
+MGI:88002	Ambp	alpha 1 microglobulin/bikunin precursor	4		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:88005	Amelx	amelogenin, X-linked	X		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:88005	Amelx	amelogenin, X-linked	X		collagen-containing extracellular matrix			ISO	Q99217 	J:164563 	
+MGI:88005	Amelx	amelogenin, X-linked	X		extracellular matrix			ISO	RGD:2107 	J:155856 	
+MGI:1918671	Amtn	amelotin	5		basement membrane			IBA	PTN002198645 	J:265628 	
+MGI:1918671	Amtn	amelotin	5		basement membrane			IDA		J:117472 	
+MGI:1918671	Amtn	amelotin	5		basement membrane			ISO	RGD:1592356 	J:155856 	
+MGI:1918671	Amtn	amelotin	5		extracellular matrix			IMP		J:106120 	
+MGI:1918671	Amtn	amelotin	5		extracellular matrix			ISO	RGD:1592356 	J:155856 	
+MGI:1918671	Amtn	amelotin	5		extracellular matrix			ISS	Q3HS82 	J:117472 	
+MGI:88022	Ang	angiogenin, ribonuclease, RNase A family, 5	14		basement membrane			ISO	P03950 	J:164563 	
+MGI:104984	Ang2	angiogenin, ribonuclease A family, member 2	14		basement membrane			ISO	P03950 	J:164563 	
+MGI:1201793	Ang3	angiogenin, ribonuclease A family, member 3	14		basement membrane			ISO	P03950 	J:164563 	
+MGI:2656551	Ang4	angiogenin, ribonuclease A family, member 4	14		basement membrane			ISO	P03950 	J:164563 	
+MGI:3528602	Ang6	angiogenin, ribonuclease A family, member 6	14		basement membrane			ISO	P03950 	J:164563 	
+MGI:108448	Angpt1	angiopoietin 1	15		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1202890	Angpt2	angiopoietin 2	8		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1336887	Angpt4	angiopoietin 4	2		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1919963	Angptl1	angiopoietin-like 1	1		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1347002	Angptl2	angiopoietin-like 2	2		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1353627	Angptl3	angiopoietin-like 3	4		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1888999	Angptl4	angiopoietin-like 4	17		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1917976	Angptl6	angiopoietin-like 6	9		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:3605801	Angptl7	angiopoietin-like 7	4		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:96819	Anxa1	annexin A1	19		collagen-containing extracellular matrix	is a part of EMAPA:16728		HDA		J:265604 	
+MGI:96819	Anxa1	annexin A1	19		collagen-containing extracellular matrix	is a part of EMAPA:18939		HDA		J:265604 	
+MGI:96819	Anxa1	annexin A1	19		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:88246	Anxa2	annexin A2	9		basement membrane			IEA	KW-0084 	J:60000 	
+MGI:88246	Anxa2	annexin A2	9		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:88246	Anxa2	annexin A2	9		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:88246	Anxa2	annexin A2	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1201378	Anxa3	annexin A3	5		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88030	Anxa4	annexin A4	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:106008	Anxa5	annexin A5	3		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:106008	Anxa5	annexin A5	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88255	Anxa6	annexin A6	11		collagen-containing extracellular matrix	is a part of EMAPA:16728		HDA		J:265604 	
+MGI:88255	Anxa6	annexin A6	11		collagen-containing extracellular matrix	is a part of EMAPA:18939		HDA		J:265604 	
+MGI:88255	Anxa6	annexin A6	11		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:88031	Anxa7	annexin A7	14		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:88031	Anxa7	annexin A7	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1923711	Anxa9	annexin A9	3		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:108481	Anxa11	annexin A11	14		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:108481	Anxa11	annexin A11	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88057	Apoe	apolipoprotein E	7		extracellular matrix			ISO	P02649 	J:164563 	
+MGI:1913945	Aspn	asporin	13		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1913945	Aspn	asporin	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1913945	Aspn	asporin	13		extracellular matrix			IDA		J:68846 	
+MGI:1913945	Aspn	asporin	13		extracellular matrix			ISO	Q9BXN1 	J:164563 	
+MGI:1341628	Atrn	attractin	2		basement membrane			IBA	PTN000832450 	J:265628 	
+MGI:2147749	Atrnl1	attractin like 1	19		basement membrane			IBA	PTN000832450 	J:265628 	
+MGI:1096385	Bcan	brevican	3		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:1096385	Bcan	brevican	3		extracellular matrix	adjacent to a CNS neuron (sensu Vertebrata)		IDA		J:146166 	
+MGI:1096385	Bcan	brevican	3		perineuronal net			ISO	RGD:2194 	J:155856 	
+MGI:1096385	Bcan	brevican	3		perisynaptic extracellular matrix			ISO	RGD:2194 	J:155856 	
+MGI:88158	Bgn	biglycan	X		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88158	Bgn	biglycan	X		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88158	Bgn	biglycan	X		extracellular matrix	is a part of upper arm muscle,is a part of cell of skeletal muscle		IDA		J:113292 	
+MGI:88158	Bgn	biglycan	X		extracellular matrix			IDA		J:214169 	
+MGI:88176	Bmp1	bone morphogenetic protein 1	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:103302	Bmp7	bone morphogenetic protein 7	2		collagen-containing extracellular matrix			ISO	RGD:620743 	J:155856 	
+MGI:1920480	Bmper	BMP-binding endothelial regulator	9		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1920480	Bmper	BMP-binding endothelial regulator	9		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:88252	Calr	calreticulin	8		collagen-containing extracellular matrix			ISO	RGD:620288 	J:155856 	
+MGI:1309489	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)	X	colocalizes_with	basement membrane			IDA		J:139951 	
+MGI:1309489	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)	X		basement membrane			IDA		J:139951 	
+MGI:1309489	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)	X	colocalizes_with	basement membrane			ISO	O14936 	J:164563 	
+MGI:1309489	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family)	X		basement membrane			ISO	O14936 	J:164563 	
+MGI:2445053	Ccbe1	collagen and calcium binding EGF domains 1	18		extracellular matrix			ISO	Q6UXH8 	J:186594 	
+MGI:1915146	Ccdc80	coiled-coil domain containing 80	16		basement membrane			IDA		J:139122 	
+MGI:1915146	Ccdc80	coiled-coil domain containing 80	16		extracellular matrix			IDA		J:139122 	
+MGI:1915146	Ccdc80	coiled-coil domain containing 80	16		interstitial matrix	is a part of cartilage		IDA		J:139122 	
+MGI:1891386	Ccl21c	chemokine (C-C motif) ligand 21C (leucine)	4		extracellular matrix			ISS	Q6ICR7 	J:73065 	
+MGI:88613	Ccn1	cellular communication network factor 1	3		collagen-containing extracellular matrix	is a part of CL:0000057		HDA		J:213088 	
+MGI:88613	Ccn1	cellular communication network factor 1	3		extracellular matrix			IBA	PTN000142748 	J:265628 	
+MGI:95537	Ccn2	cellular communication network factor 2	10		extracellular matrix			IBA	PTN000142748 	J:265628 	
+MGI:95537	Ccn2	cellular communication network factor 2	10		extracellular matrix			IDA		J:40574 	
+MGI:109185	Ccn3	cellular communication network factor 3	15		collagen-containing extracellular matrix			ISO	RGD:621553 	J:155856 	
+MGI:109185	Ccn3	cellular communication network factor 3	15		extracellular matrix			IBA	PTN000142748 	J:265628 	
+MGI:1197008	Ccn4	cellular communication network factor 4	15		extracellular matrix			IBA	PTN000142748 	J:265628 	
+MGI:1328326	Ccn5	cellular communication network factor 5	2		extracellular matrix			IBA	PTN000142748 	J:265628 	
+MGI:2685581	Ccn6	cellular communication network factor 6	10		extracellular matrix			IBA	PTN000142748 	J:265628 	
+MGI:1096360	Cd151	CD151 antigen	7		basement membrane			ISO	P48509 	J:164563 	
+MGI:1194924	Cd180	CD180 antigen	13		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:95314	Cela1	chymotrypsin-like elastase family, member 1	15		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:95316	Cela2a	chymotrypsin-like elastase family, member 2A	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1915118	Cela3b	chymotrypsin-like elastase family, member 3B	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1344403	Cfdp1	craniofacial development protein 1	8		basement membrane			TAS		J:78447 	
+MGI:1096866	Chad	chondroadherin	11		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:3036284	Chadl	chondroadherin-like	15		collagen-containing extracellular matrix			IDA		J:218381 	
+MGI:3036284	Chadl	chondroadherin-like	15		collagen-containing extracellular matrix			ISO	Q6NUI6 	J:164563 	
+MGI:3036284	Chadl	chondroadherin-like	15		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2444507	Cilp	cartilage intermediate layer protein, nucleotide pyrophosphohydrolase	9		collagen-containing extracellular matrix			IBA	PTN002687626 	J:265628 	
+MGI:2444507	Cilp	cartilage intermediate layer protein, nucleotide pyrophosphohydrolase	9		collagen-containing extracellular matrix			ISO	O75339 	J:164563 	
+MGI:104540	Clec3b	C-type lectin domain family 3, member b	9		extracellular matrix			TAS		J:72638 	
+MGI:1914114	Clec14a	C-type lectin domain family 14, member a	12		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1278313	Coch	cochlin	12		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1278313	Coch	cochlin	12		collagen-containing extracellular matrix			ISO	O43405 	J:164563 	
+MGI:1278313	Coch	cochlin	12		extracellular matrix	is a part of cochlea		IDA		J:203413 	
+MGI:1278313	Coch	cochlin	12		extracellular matrix	is a part of spleen,is a part of follicular dendritic cell	PR:000037260	IDA		J:203149 	
+MGI:1278313	Coch	cochlin	12		extracellular matrix	is a part of spleen,is a part of follicular dendritic cell	PR:000037263	IDA		J:203149 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer			IBA	PTN001166556 	J:265628 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer	is a part of tooth		IDA		J:19003 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer	is a part of dermis connective tissue,is a part of dermis connective tissue		IMP	MGI:1857154 	J:26504 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen type I trimer			ISO	P02452 	J:164563 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen-containing extracellular matrix	is a part of CL:0000057		HDA		J:213088 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen-containing extracellular matrix	is a part of EMAPA:16728|is a part of EMAPA:18939		HDA		J:265604 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		extracellular matrix	is a part of lung		IDA		J:32939 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		extracellular matrix	is a part of mammary gland epithelium,is a part of mammary gland epithelium		IDA		J:28286 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		extracellular matrix	is a part of heart valve|is a part of left ventricle cardiac muscle|is a part of right ventricle cardiac muscle		IDA		J:116643 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		extracellular matrix	is a part of palatal shelf epithelium|is a part of cardiovascular system|is a part of palatal shelf		IDA		J:30059 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		extracellular matrix	is a part of mesangial cell		IDA		J:28978 	
+MGI:88467	Col1a1	collagen, type I, alpha 1	11		extracellular matrix			IDA		J:27457 J:36211 J:63311 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen type I trimer			IBA	PTN002770820 	J:265628 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen type I trimer			IDA		J:20667 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen type I trimer			ISO	P08123 	J:164563 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88468	Col1a2	collagen, type I, alpha 2	6		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		basement membrane	is a part of ciliary epithelium,is a part of epithelial cell		IDA		J:68440 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer			IBA	PTN001166557 	J:265628 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer	is a part of scapula,is a part of chondrocyte|is a part of humerus,is a part of chondrocyte		IDA		J:52896 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer	is a part of EMAPA:35508		IMP	MGI:1857275 	J:6582 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen type II trimer			ISO	P02458 	J:164563 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:P28481-5	HDA		J:265607 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		collagen-containing extracellular matrix			ISO	RGD:2375 	J:155856 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		extracellular matrix	is a part of inner ear		IDA		J:32201 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		extracellular matrix	is a part of tibia		IDA		J:128547 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		extracellular matrix	is a part of cartilage|is a part of hypertrophic cartilage zone		IDA		J:45403 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		extracellular matrix	is a part of long bone epiphyseal plate		IDA		J:182341 	
+MGI:88452	Col2a1	collagen, type II, alpha 1	15		extracellular matrix			IDA		J:174146 J:202984 J:214169 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen type III trimer			IDA		J:20667 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen type III trimer			ISO	P02461 	J:164563 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen-containing extracellular matrix			ISO	RGD:71029 	J:155856 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		collagen-containing extracellular matrix			ISO	P02461 	J:164563 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		extracellular matrix	is a part of lung		IDA		J:32939 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		extracellular matrix	is a part of palatal shelf epithelium		IDA		J:30059 	
+MGI:88453	Col3a1	collagen, type III, alpha 1	1		extracellular matrix			IDA		J:52170 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		basement membrane			IBA	PTN002770644 	J:265628 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		basement membrane	is a part of embryo endoderm|is a part of embryo ectoderm|is a part of Reichert's membrane|is a part of extraembryonic ectoderm|is a part of extraembryonic endoderm|is a part of decidua		IDA		J:98797 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		basement membrane	is a part of urinary system		IDA		J:71108 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		basement membrane			IDA		J:74207 J:132545 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen type IV trimer			IDA		J:78275 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen type IV trimer			ISO	P02462 	J:164563 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88454	Col4a1	collagen, type IV, alpha 1	8		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		basement membrane			IDA		J:74207 J:132545 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen type IV trimer			IBA	PTN002770666 	J:265628 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen type IV trimer			IDA		J:78275 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88455	Col4a2	collagen, type IV, alpha 2	8		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		basement membrane			IBA	PTN002770644 	J:265628 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		basement membrane			IDA		J:74207 J:132545 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		basement membrane			ISO	Q01955 	J:164563 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		collagen type IV trimer			IDA		J:78275 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		collagen type IV trimer			ISO	Q01955 	J:164563 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:104688	Col4a3	collagen, type IV, alpha 3	1		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		basement membrane			IBA	PTN002770644 	J:265628 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		basement membrane			IDA		J:42107 J:58257 J:74207 J:150527 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		basement membrane			ISO	P53420 	J:164563 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen type IV trimer			IBA	PTN002513086 	J:265628 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen type IV trimer			IDA		J:21122 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen type IV trimer			ISO	P53420 	J:164563 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:104687	Col4a4	collagen, type IV, alpha 4	1		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		basement membrane			IBA	PTN002770644 	J:265628 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		basement membrane	is a part of skeletal muscle tissue		IDA		J:23783 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		basement membrane			IDA		J:42107 J:58257 J:74207 J:150527 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		collagen type IV trimer			IDA		J:78275 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88456	Col4a5	collagen, type IV, alpha 5	X		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		basement membrane			IDA		J:58257 J:74207 J:150527 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		collagen type IV trimer			IBA	PTN002770666 	J:265628 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		collagen type IV trimer			IDA		J:70987 J:78275 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2152695	Col4a6	collagen, type IV, alpha 6	X		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		basement membrane			IDA		J:87900 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen type V trimer			IBA	PTN002771332 	J:265628 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen type V trimer			ISO	P20908 	J:164563 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		collagen-containing extracellular matrix			ISO	P20908 	J:164563 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88457	Col5a1	collagen, type V, alpha 1	2		extracellular matrix	is a part of heart valve|is a part of left ventricle cardiac muscle|is a part of right ventricle cardiac muscle		IDA		J:116643 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen type V trimer			IBA	PTN002770842 	J:265628 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen type V trimer			ISO	P05997 	J:164563 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88458	Col5a2	collagen, type V, alpha 2	1		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		collagen type V trimer			IDA		J:99592 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		collagen type V trimer			ISS		J:61325 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		collagen-containing extracellular matrix			ISO	RGD:70922 	J:155856 	
+MGI:1858212	Col5a3	collagen, type V, alpha 3	9		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88459	Col6a1	collagen, type VI, alpha 1	10		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88459	Col6a1	collagen, type VI, alpha 1	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88459	Col6a1	collagen, type VI, alpha 1	10		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88459	Col6a1	collagen, type VI, alpha 1	10		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:88459	Col6a1	collagen, type VI, alpha 1	10		extracellular matrix	is a part of embryo		IDA		J:35195 	
+MGI:88459	Col6a1	collagen, type VI, alpha 1	10		extracellular matrix	is a part of upper arm muscle,is a part of cell of skeletal muscle		IDA		J:113292 	
+MGI:88460	Col6a2	collagen, type VI, alpha 2	10		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88460	Col6a2	collagen, type VI, alpha 2	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88460	Col6a2	collagen, type VI, alpha 2	10		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:88460	Col6a2	collagen, type VI, alpha 2	10		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:88460	Col6a2	collagen, type VI, alpha 2	10		extracellular matrix	is a part of embryo		IDA		J:35195 	
+MGI:88460	Col6a2	collagen, type VI, alpha 2	10		extracellular matrix	is a part of upper arm muscle,is a part of cell of skeletal muscle		IDA		J:113292 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:J3QQ16	HDA		J:265607 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		extracellular matrix	is a part of embryo		IDA		J:35195 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		extracellular matrix	is a part of upper arm muscle,is a part of cell of skeletal muscle		IDA		J:113292 	
+MGI:88461	Col6a3	collagen, type VI, alpha 3	1		extracellular matrix			ISO	P12111 	J:138755 	
+MGI:1915803	Col6a4	collagen, type VI, alpha 4	9		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1915803	Col6a4	collagen, type VI, alpha 4	9		extracellular matrix			IDA		J:229828 	
+MGI:3648134	Col6a5	collagen, type VI, alpha 5	9		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:3648134	Col6a5	collagen, type VI, alpha 5	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:3648134	Col6a5	collagen, type VI, alpha 5	9		extracellular matrix	is a part of skeletal muscle		IDA		J:208903 	
+MGI:2444259	Col6a6	collagen, type VI, alpha 6	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2444259	Col6a6	collagen, type VI, alpha 6	9		extracellular matrix			ISO	A6NMZ7 	J:138755 	
+MGI:88462	Col7a1	collagen, type VII, alpha 1	9		basement membrane	is a part of EMAPA:17525		IDA		J:154510 	
+MGI:88462	Col7a1	collagen, type VII, alpha 1	9		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:88462	Col7a1	collagen, type VII, alpha 1	9		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88462	Col7a1	collagen, type VII, alpha 1	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88462	Col7a1	collagen, type VII, alpha 1	9		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:88463	Col8a1	collagen, type VIII, alpha 1	16		basement membrane			IEA	KW-0084 	J:60000 	
+MGI:88463	Col8a1	collagen, type VIII, alpha 1	16		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88463	Col8a1	collagen, type VIII, alpha 1	16		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88464	Col8a2	collagen, type VIII, alpha 2	4		basement membrane			IEA	KW-0084 	J:60000 	
+MGI:88464	Col8a2	collagen, type VIII, alpha 2	4		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88465	Col9a1	collagen, type IX, alpha 1	1		basement membrane			IBA	PTN002770644 	J:265628 	
+MGI:88465	Col9a1	collagen, type IX, alpha 1	1		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88466	Col9a2	collagen, type IX, alpha 2	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88466	Col9a2	collagen, type IX, alpha 2	4		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:894686	Col9a3	collagen, type IX, alpha 3	2		basement membrane			IBA	PTN002770644 	J:265628 	
+MGI:894686	Col9a3	collagen, type IX, alpha 3	2		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:894686	Col9a3	collagen, type IX, alpha 3	2		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		collagen type X trimer			ISO	Q03692 	J:164563 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		collagen-containing extracellular matrix			ISO	RGD:2371 	J:155856 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		extracellular matrix	is a part of hypertrophic cartilage zone		IDA		J:45403 	
+MGI:88445	Col10a1	collagen, type X, alpha 1	10		extracellular matrix	is a part of long bone epiphyseal plate		IDA		J:182341 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		collagen type XI trimer			IBA	PTN002771318 	J:265628 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		collagen type XI trimer			ISO	P12107 	J:164563 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		collagen-containing extracellular matrix			ISO	RGD:2372 	J:155856 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		extracellular matrix	is a part of hindlimb|is a part of tibia|is a part of articular cartilage|is a part of cartilage		IDA		J:215404 	
+MGI:88446	Col11a1	collagen, type XI, alpha 1	3		extracellular matrix	is a part of heart valve|is a part of left ventricle cardiac muscle|is a part of right ventricle cardiac muscle		IDA		J:116643 	
+MGI:88447	Col11a2	collagen, type XI, alpha 2	17		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88447	Col11a2	collagen, type XI, alpha 2	17		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88448	Col12a1	collagen, type XII, alpha 1	9		collagen-containing extracellular matrix	is a part of lung,is a part of lung		HDA		J:265604 	
+MGI:88448	Col12a1	collagen, type XII, alpha 1	9		collagen-containing extracellular matrix	is a part of colon	UniProtKB:Q60847-5	HDA		J:265604 	
+MGI:88448	Col12a1	collagen, type XII, alpha 1	9		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:Q60847-2	HDA		J:265607 	
+MGI:88448	Col12a1	collagen, type XII, alpha 1	9		collagen-containing extracellular matrix	is a part of fibroblast,is a part of fibroblast		HDA		J:213088 	
+MGI:88448	Col12a1	collagen, type XII, alpha 1	9		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1277201	Col13a1	collagen, type XIII, alpha 1	10		collagen-containing extracellular matrix	is a part of colon	UniProtKB:Q9R1N9-2	HDA		J:265604 	
+MGI:1277201	Col13a1	collagen, type XIII, alpha 1	10		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:1341272	Col14a1	collagen, type XIV, alpha 1	15		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1341272	Col14a1	collagen, type XIV, alpha 1	15		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1341272	Col14a1	collagen, type XIV, alpha 1	15		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1341272	Col14a1	collagen, type XIV, alpha 1	15		interstitial matrix			IBA	PTN002770527 	J:265628 	
+MGI:1341272	Col14a1	collagen, type XIV, alpha 1	15		interstitial matrix	is a part of ventricle cardiac muscle|is a part of left ventricle cardiac muscle|is a part of right ventricle cardiac muscle		IDA		J:189252 	
+MGI:88449	Col15a1	collagen, type XV, alpha 1	4		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:88449	Col15a1	collagen, type XV, alpha 1	4		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88449	Col15a1	collagen, type XV, alpha 1	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88449	Col15a1	collagen, type XV, alpha 1	4		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:1095396	Col16a1	collagen, type XVI, alpha 1	4		collagen type V trimer			IBA	PTN002770842 	J:265628 	
+MGI:1095396	Col16a1	collagen, type XVI, alpha 1	4		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1095396	Col16a1	collagen, type XVI, alpha 1	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1095396	Col16a1	collagen, type XVI, alpha 1	4		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88450	Col17a1	collagen, type XVII, alpha 1	19		basement membrane			IEA	KW-0084 	J:60000 	
+MGI:88450	Col17a1	collagen, type XVII, alpha 1	19		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		basement membrane	is a part of skin		IDA		J:154510 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		basement membrane	is a part of blood vessel|is a part of choroid plexus|is a part of brain pia mater		IDA		J:92842 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		basement membrane			IDA		J:28734 J:81999 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88451	Col18a1	collagen, type XVIII, alpha 1	10		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:1095415	Col19a1	collagen, type XIX, alpha 1	1		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:1920618	Col20a1	collagen, type XX, alpha 1	2		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1916950	Col22a1	collagen, type XXII, alpha 1	15		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1916950	Col22a1	collagen, type XXII, alpha 1	15		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:2653243	Col23a1	collagen, type XXIII, alpha 1	11		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2653243	Col23a1	collagen, type XXIII, alpha 1	11		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:1918605	Col24a1	collagen, type XXIV, alpha 1	3		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1918605	Col24a1	collagen, type XXIV, alpha 1	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1918605	Col24a1	collagen, type XXIV, alpha 1	3		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:1924268	Col25a1	collagen, type XXV, alpha 1	3		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1924268	Col25a1	collagen, type XXV, alpha 1	3		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:2155345	Col26a1	collagen, type XXVI, alpha 1	5		extracellular matrix			IDA		J:78991 	
+MGI:2672118	Col27a1	collagen, type XXVII, alpha 1	4		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:2672118	Col27a1	collagen, type XXVII, alpha 1	4		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2672118	Col27a1	collagen, type XXVII, alpha 1	4		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:2672118	Col27a1	collagen, type XXVII, alpha 1	4		fibrillar collagen trimer	is a part of cartilage|is a part of rib		IDA		J:121268 	
+MGI:2685312	Col28a1	collagen, type XXVIII, alpha 1	6		basement membrane	is a part of dorsal root ganglion,is a part of Schwann cell		IDA		J:167409 	
+MGI:2685312	Col28a1	collagen, type XXVIII, alpha 1	6		basement membrane			IDA		J:108496 	
+MGI:2685312	Col28a1	collagen, type XXVIII, alpha 1	6		collagen-containing extracellular matrix	is a part of lung	UniProtKB:Q2UY11-2	HDA		J:265604 	
+MGI:2685312	Col28a1	collagen, type XXVIII, alpha 1	6		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:2685312	Col28a1	collagen, type XXVIII, alpha 1	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2685312	Col28a1	collagen, type XXVIII, alpha 1	6		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:2152907	Colec12	collectin sub-family member 12	18		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1338761	Colq	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	14		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1338761	Colq	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	14		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:88469	Comp	cartilage oligomeric matrix protein	8		collagen-containing extracellular matrix			IBA	PTN002565423 	J:265628 	
+MGI:88469	Comp	cartilage oligomeric matrix protein	8		collagen-containing extracellular matrix			ISO	RGD:2378 	J:155856 	
+MGI:1919006	Cpn2	carboxypeptidase N, polypeptide 2	16		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1919006	Cpn2	carboxypeptidase N, polypeptide 2	16		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:88487	Cpz	carboxypeptidase Z	5		extracellular matrix			TAS		J:69384 	
+MGI:1926142	Crispld2	cysteine-rich secretory protein LCCL domain containing 2	8		extracellular matrix			IDA		J:139122 	
+MGI:2153093	Cspg4	chondroitin sulfate proteoglycan 4	9		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2153093	Cspg4	chondroitin sulfate proteoglycan 4	9		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:102519	Cst3	cystatin C	2		basement membrane			ISO	RGD:2432 	J:155856 	
+MGI:102519	Cst3	cystatin C	2		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:109514	Cstb	cystatin B	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1915838	Cthrc1	collagen triple helix repeat containing 1	15		extracellular matrix			ISO	Q8CG08 	J:73065 	
+MGI:88561	Ctsb	cathepsin B	14		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:88561	Ctsb	cathepsin B	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:109553	Ctsc	cathepsin C	7		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88562	Ctsd	cathepsin D	7		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:88564	Ctsl	cathepsin L	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1891190	Ctsz	cathepsin Z	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:101864	Dag1	dystroglycan 1	9		basement membrane			IBA	PTN002727163 	J:265628 	
+MGI:101864	Dag1	dystroglycan 1	9		basement membrane	is a part of future spinal cord		IDA		J:194150 	
+MGI:101864	Dag1	dystroglycan 1	9		basement membrane	is a part of salivary gland|is a part of pancreas|is a part of smooth muscle tissue|is a part of epithelium		IDA		J:46802 	
+MGI:101864	Dag1	dystroglycan 1	9		basement membrane	is a part of submandibular gland epithelium,is a part of epithelial cell|is a part of left lung lobar bronchus epithelium,is a part of epithelial cell|is a part of right lung lobar bronchus epithelium,is a part of epithelial cell		IDA		J:73859 	
+MGI:101864	Dag1	dystroglycan 1	9		basement membrane			ISO	Q14118 	J:164563 	
+MGI:94872	Dcn	decorin	10		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:94872	Dcn	decorin	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:94872	Dcn	decorin	10		extracellular matrix			ISO	RGD:61895 	J:155856 	
+MGI:94872	Dcn	decorin	10		extracellular matrix			ISS		J:14605 	
+MGI:107231	Dlg1	discs large MAGUK scaffold protein 1	16		basement membrane			IDA		J:202984 	
+MGI:106210	Dmbt1	deleted in malignant brain tumors 1	7		collagen-containing extracellular matrix	is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:106210	Dmbt1	deleted in malignant brain tumors 1	7		collagen-containing extracellular matrix			ISO	RGD:61984 	J:155856 	
+MGI:106210	Dmbt1	deleted in malignant brain tumors 1	7		extracellular matrix			IBA	PTN002320870 	J:265628 	
+MGI:106210	Dmbt1	deleted in malignant brain tumors 1	7		extracellular matrix	is a part of inner cell mass,is a part of early embryonic cell (metazoa)		IDA		J:93477 	
+MGI:94910	Dmp1	dentin matrix protein 1	5		extracellular matrix			IBA	PTN000600550 	J:265628 	
+MGI:94910	Dmp1	dentin matrix protein 1	5		extracellular matrix	is a part of dentin,is a part of dentin		IDA		J:146976 	
+MGI:94910	Dmp1	dentin matrix protein 1	5		extracellular matrix			ISO	RGD:2508 	J:155856 	
+MGI:1928392	Dpt	dermatopontin	1		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:109172	Dspp	dentin sialophosphoprotein	5		collagen-containing extracellular matrix			ISO	RGD:2525 	J:155856 	
+MGI:109172	Dspp	dentin sialophosphoprotein	5		extracellular matrix	is a part of dentin,is a part of dentin		IDA		J:146976 	
+MGI:109172	Dspp	dentin sialophosphoprotein	5		extracellular matrix	is a part of dentin		IDA		J:190409 	
+MGI:103060	Ecm1	extracellular matrix protein 1	3		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:103060	Ecm1	extracellular matrix protein 1	3		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:103060	Ecm1	extracellular matrix protein 1	3		collagen-containing extracellular matrix			IBA	PTN002703832 	J:265628 	
+MGI:103060	Ecm1	extracellular matrix protein 1	3		collagen-containing extracellular matrix			ISO	Q16610 	J:164563 	
+MGI:3039578	Ecm2	extracellular matrix protein 2, female organ and adipocyte specific	13		extracellular matrix			IBA	PTN002519889 	J:265628 	
+MGI:3039578	Ecm2	extracellular matrix protein 2, female organ and adipocyte specific	13		extracellular matrix			IDA		J:139122 	
+MGI:3039578	Ecm2	extracellular matrix protein 2, female organ and adipocyte specific	13		interstitial matrix	is a part of tendon|is a part of ligament|is a part of periosteum		IDA		J:139122 	
+MGI:1339998	Efemp1	epidermal growth factor-containing fibulin-like extracellular matrix protein 1	11		basement membrane			ISO	RGD:1308528 	J:155856 	
+MGI:1339998	Efemp1	epidermal growth factor-containing fibulin-like extracellular matrix protein 1	11		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1339998	Efemp1	epidermal growth factor-containing fibulin-like extracellular matrix protein 1	11		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		basement membrane			IDA		J:121136 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		elastic fiber			IMP		J:106902 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		elastic fiber			ISO	O95967 	J:164563 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		extracellular matrix			IDA		J:121136 J:232351 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		extracellular matrix			ISO	O95967 	J:164563 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		extracellular matrix			TAS		J:60560 	
+MGI:1891209	Efemp2	epidermal growth factor-containing fibulin-like extracellular matrix protein 2	19		microfibril			IDA		J:121136 	
+MGI:107444	Efna5	ephrin A5	17		basement membrane			IDA		J:194293 	
+MGI:1858599	Egfl6	EGF-like-domain, multiple 6	X		basement membrane			IDA		J:139122 	
+MGI:1858599	Egfl6	EGF-like-domain, multiple 6	X		extracellular matrix			IDA		J:139122 	
+MGI:2449923	Egfl7	EGF-like domain 7	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2449923	Egfl7	EGF-like domain 7	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2146149	Egflam	EGF-like, fibronectin type III and laminin G domains	15		basement membrane			IBA	PTN000832138 	J:265628 	
+MGI:2146149	Egflam	EGF-like, fibronectin type III and laminin G domains	15		basement membrane			IDA		J:139122 	
+MGI:2146149	Egflam	EGF-like, fibronectin type III and laminin G domains	15		extracellular matrix			IDA		J:139122 	
+MGI:2146149	Egflam	EGF-like, fibronectin type III and laminin G domains	15		interstitial matrix	is a part of cartilage		IDA		J:139122 	
+MGI:2679229	Elane	elastase, neutrophil expressed	10		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2442479	Elfn1	leucine rich repeat and fibronectin type III, extracellular 1	5		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:3608416	Elfn2	leucine rich repeat and fibronectin type III, extracellular 2	15		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:95317	Eln	elastin	5		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:95317	Eln	elastin	5		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:95317	Eln	elastin	5		elastic fiber	is a part of fibroblast		IDA		J:118147 	
+MGI:95317	Eln	elastin	5		elastic fiber			ISO	P15502 	J:164563 	
+MGI:95317	Eln	elastin	5		extracellular matrix			ISO	RGD:67394 	J:155856 	
+MGI:2155091	Emid1	EMI domain containing 1	11		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2155091	Emid1	EMI domain containing 1	11		extracellular matrix			IDA		J:78991 	
+MGI:1926189	Emilin1	elastin microfibril interfacer 1	5		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1926189	Emilin1	elastin microfibril interfacer 1	5		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1926189	Emilin1	elastin microfibril interfacer 1	5		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:1926189	Emilin1	elastin microfibril interfacer 1	5		collagen-containing extracellular matrix			ISO	Q9Y6C2 	J:164563 	
+MGI:1926189	Emilin1	elastin microfibril interfacer 1	5		EMILIN complex			ISO	Q9Y6C2 	J:164563 	
+MGI:1926189	Emilin1	elastin microfibril interfacer 1	5		extracellular matrix			IDA		J:87574 	
+MGI:2389136	Emilin2	elastin microfibril interfacer 2	17		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:2389136	Emilin2	elastin microfibril interfacer 2	17		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:1333772	Enam	enamelin	5		extracellular matrix			IBA	PTN001047821 	J:265628 	
+MGI:1333772	Enam	enamelin	5		extracellular matrix			IDA		J:223123 	
+MGI:102805	Entpd1	ectonucleoside triphosphate diphosphohydrolase 1	19		basement membrane			IDA		J:76081 	
+MGI:1096863	Entpd2	ectonucleoside triphosphate diphosphohydrolase 2	2		basement membrane			IDA		J:76081 	
+MGI:107942	Epyc	epiphycan	10		extracellular matrix	is a part of cartilage		IDA		J:222369 	
+MGI:88380	F2	coagulation factor II	2		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:88380	F2	coagulation factor II	2		collagen-containing extracellular matrix			IBA	PTN002799255 	J:265628 	
+MGI:88380	F2	coagulation factor II	2		collagen-containing extracellular matrix			ISO	RGD:61996 	J:155856 	
+MGI:88381	F3	coagulation factor III	3		collagen-containing extracellular matrix			ISO	P13726 	J:164563 	
+MGI:1921395	F13a1	coagulation factor XIII, A1 subunit	13		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1921395	F13a1	coagulation factor XIII, A1 subunit	13		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1921395	F13a1	coagulation factor XIII, A1 subunit	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2443990	Fam20b	FAM20B, glycosaminoglycan xylosylkinase	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:95487	Fbln1	fibulin 1	15		basement membrane	is a part of metanephros		IDA		J:102464 	
+MGI:95487	Fbln1	fibulin 1	15		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:95487	Fbln1	fibulin 1	15		elastic fiber			ISO	P23142 	J:164563 	
+MGI:95487	Fbln1	fibulin 1	15		extracellular matrix			ISO	P23142 	J:164563 	
+MGI:95488	Fbln2	fibulin 2	6		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:95488	Fbln2	fibulin 2	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:95488	Fbln2	fibulin 2	6		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:1346091	Fbln5	fibulin 5	12		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1346091	Fbln5	fibulin 5	12		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1346091	Fbln5	fibulin 5	12	colocalizes_with	collagen-containing extracellular matrix			IDA		J:103848 	
+MGI:1346091	Fbln5	fibulin 5	12		collagen-containing extracellular matrix			ISO	Q9UBX5 	J:164563 	
+MGI:1346091	Fbln5	fibulin 5	12	colocalizes_with	elastic fiber			IDA		J:86754 	
+MGI:1917620	Fbln7	fibulin 7	2		extracellular matrix			IDA		J:271278 	
+MGI:95489	Fbn1	fibrillin 1	2		basement membrane			ISO	P35555 	J:164563 	
+MGI:95489	Fbn1	fibrillin 1	2		collagen-containing extracellular matrix	is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:95489	Fbn1	fibrillin 1	2		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:95489	Fbn1	fibrillin 1	2		collagen-containing extracellular matrix	is a part of fibroblast,is a part of fibroblast		HDA		J:213088 	
+MGI:95489	Fbn1	fibrillin 1	2		collagen-containing extracellular matrix	is a part of fibroblast		IDA		J:118147 	
+MGI:95489	Fbn1	fibrillin 1	2		collagen-containing extracellular matrix			IDA		J:235251 	
+MGI:95489	Fbn1	fibrillin 1	2		collagen-containing extracellular matrix			ISO	RGD:620908 	J:155856 	
+MGI:95489	Fbn1	fibrillin 1	2		extracellular matrix			IBA	PTN001170450 	J:265628 	
+MGI:95489	Fbn1	fibrillin 1	2		extracellular matrix			ISO	P35555 	J:164563 	
+MGI:95489	Fbn1	fibrillin 1	2		microfibril	is a part of lens capsule|is a part of ciliary body		IDA		J:226844 	
+MGI:95489	Fbn1	fibrillin 1	2		microfibril			ISO	P35555 	J:164563 	
+MGI:95489	Fbn1	fibrillin 1	2		microfibril			TAS		J:25216 J:165256 	
+MGI:95490	Fbn2	fibrillin 2	18		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:95490	Fbn2	fibrillin 2	18		collagen-containing extracellular matrix	is a part of fibroblast,is a part of fibroblast		HDA		J:213088 	
+MGI:95490	Fbn2	fibrillin 2	18		extracellular matrix			IBA	PTN001170450 	J:265628 	
+MGI:95490	Fbn2	fibrillin 2	18		microfibril	is a part of lens capsule|is a part of ciliary body		IDA		J:226844 	
+MGI:95490	Fbn2	fibrillin 2	18		microfibril			IDA		J:203031 	
+MGI:95490	Fbn2	fibrillin 2	18		microfibril			ISO	P35556 	J:164563 	
+MGI:95490	Fbn2	fibrillin 2	18		microfibril			TAS		J:25216 J:165256 	
+MGI:2444336	Fcgbp	Fc fragment of IgG binding protein	7		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:2444336	Fcgbp	Fc fragment of IgG binding protein	7		extracellular matrix	is a part of intestine mucosa		IDA		J:150756 	
+MGI:1340905	Fcna	ficolin A	2		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1341158	Fcnb	ficolin B	2		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1316726	Fga	fibrinogen alpha chain	3		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1316726	Fga	fibrinogen alpha chain	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99501	Fgb	fibrinogen beta chain	3		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:99501	Fgb	fibrinogen beta chain	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99501	Fgb	fibrinogen beta chain	3		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:95515	Fgf1	fibroblast growth factor 1	18		extracellular matrix			IDA		J:95191 	
+MGI:104723	Fgf9	fibroblast growth factor 9	14		basement membrane			ISO	RGD:2610 	J:155856 	
+MGI:1099809	Fgf10	fibroblast growth factor 10	13	colocalizes_with	collagen-containing extracellular matrix			ISO	O15520 	J:164563 	
+MGI:95523	Fgfr2	fibroblast growth factor receptor 2	7	colocalizes_with	collagen-containing extracellular matrix			ISO	P21802 	J:164563 	
+MGI:95526	Fgg	fibrinogen gamma chain	3		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:95526	Fgg	fibrinogen gamma chain	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:95526	Fgg	fibrinogen gamma chain	3		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:102795	Fgl1	fibrinogen-like protein 1	8		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:103266	Fgl2	fibrinogen-like protein 2	5		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:2138953	Fibcd1	fibrinogen C domain containing 1	2		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1328364	Fmod	fibromodulin	1		collagen-containing extracellular matrix			ISO	RGD:619769 	J:155856 	
+MGI:95566	Fn1	fibronectin 1	1		basement membrane	is a part of urinary system		IDA		J:71108 	
+MGI:95566	Fn1	fibronectin 1	1		basement membrane	is a part of palatal shelf epithelium|is a part of cardiovascular system|is a part of palatal shelf		IDA		J:30059 	
+MGI:95566	Fn1	fibronectin 1	1		basement membrane			IDA		J:202984 	
+MGI:95566	Fn1	fibronectin 1	1		basement membrane			ISO	RGD:2624 	J:155856 	
+MGI:95566	Fn1	fibronectin 1	1		collagen-containing extracellular matrix	is a part of CL:0000057		HDA		J:213088 	
+MGI:95566	Fn1	fibronectin 1	1		collagen-containing extracellular matrix	is a part of EMAPA:16728|is a part of EMAPA:18939		HDA		J:265604 	
+MGI:95566	Fn1	fibronectin 1	1		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:95566	Fn1	fibronectin 1	1		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:95566	Fn1	fibronectin 1	1		collagen-containing extracellular matrix			ISO	P02751 	J:164563 	
+MGI:95566	Fn1	fibronectin 1	1		extracellular matrix	is a part of dorsal aorta		IDA		J:138721 	
+MGI:95566	Fn1	fibronectin 1	1		extracellular matrix	is a part of lung		IDA		J:32939 	
+MGI:95566	Fn1	fibronectin 1	1		extracellular matrix	is a part of urinary system		IDA		J:71108 	
+MGI:95566	Fn1	fibronectin 1	1		extracellular matrix	is a part of submandibular gland		IDA		J:44796 	
+MGI:95566	Fn1	fibronectin 1	1		extracellular matrix			IDA		J:98248 J:109287 J:188490 J:191757 	
+MGI:95566	Fn1	fibronectin 1	1		extracellular matrix			ISO	P02751 	J:229828 	
+MGI:95566	Fn1	fibronectin 1	1		extracellular matrix			TAS		J:78447 	
+MGI:2385368	Fras1	Fraser extracellular matrix complex subunit 1	5		basement membrane	is a part of embryo,is a part of cornea epithelium|is a part of embryo,is a part of eyelid,is a part of epithelium|is a part of embryo,is a part of limb bud,is a part of apical ectodermal ridge|is a part of embryo,is a part of lobar bronchus epithelium|is a part of embryo,is a part of UBERON:0004211|is a part of embryo,is a part of midgut epithelium|is a part of embryo,is a part of choroid plexus epithelium|is a part of UBERON:0010077,is a part of lens epithelium,is a part of embryo|is a part of embryo,is a part of UBERON:0006763|is a part of embryo,is a part of limb epidermis|is a part of embryo,is a part of UBERON:0014388|is a part of UBERON:0004022		IDA		J:117883 	
+MGI:2385368	Fras1	Fraser extracellular matrix complex subunit 1	5		basement membrane	is a part of head of caudate nucleus		IDA		J:139122 	
+MGI:2385368	Fras1	Fraser extracellular matrix complex subunit 1	5		basement membrane			IDA		J:92613 J:111788 J:128304 J:137010 	
+MGI:2385368	Fras1	Fraser extracellular matrix complex subunit 1	5		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2670972	Frem1	Fras1 related extracellular matrix protein 1	4		basement membrane	is a part of embryo,is a part of limb bud,is a part of apical ectodermal ridge|is a part of embryo,is a part of lobar bronchus epithelium|is a part of embryo,is a part of UBERON:0004211|is a part of embryo,is a part of midgut epithelium|is a part of embryo,is a part of choroid plexus epithelium|is a part of embryo,is a part of limb epidermis|is a part of embryo,is a part of UBERON:0014388		IDA		J:117883 	
+MGI:2670972	Frem1	Fras1 related extracellular matrix protein 1	4		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:2670972	Frem1	Fras1 related extracellular matrix protein 1	4		basement membrane			IDA		J:111788 J:128304 	
+MGI:2670972	Frem1	Fras1 related extracellular matrix protein 1	4		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2444465	Frem2	Fras1 related extracellular matrix protein 2	3		basement membrane	is a part of embryo,is a part of cornea epithelium|is a part of embryo,is a part of eyelid,is a part of epithelium|is a part of embryo,is a part of limb bud,is a part of apical ectodermal ridge|is a part of embryo,is a part of lobar bronchus epithelium|is a part of embryo,is a part of UBERON:0004211|is a part of embryo,is a part of midgut epithelium|is a part of embryo,is a part of choroid plexus epithelium|is a part of UBERON:0010077,is a part of lens epithelium,is a part of embryo|is a part of embryo,is a part of UBERON:0006763|is a part of embryo,is a part of limb epidermis|is a part of embryo,is a part of UBERON:0014388|is a part of UBERON:0004022		IDA		J:117883 	
+MGI:2444465	Frem2	Fras1 related extracellular matrix protein 2	3		basement membrane			IDA		J:111788 J:128304 	
+MGI:2444465	Frem2	Fras1 related extracellular matrix protein 2	3		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2685641	Frem3	Fras1 related extracellular matrix protein 3	8		basement membrane	is a part of embryo,is a part of cornea epithelium|is a part of embryo,is a part of eyelid,is a part of epithelium|is a part of embryo,is a part of limb bud,is a part of apical ectodermal ridge|is a part of embryo,is a part of lobar bronchus epithelium|is a part of embryo,is a part of embryo,is a part of UBERON:0004211,is a part of UBERON:0004211|is a part of embryo,is a part of embryo,is a part of midgut epithelium,is a part of midgut epithelium|is a part of embryo,is a part of embryo,is a part of choroid plexus epithelium,is a part of choroid plexus epithelium|is a part of UBERON:0010077,is a part of UBERON:0010077,is a part of lens epithelium,is a part of lens epithelium,is a part of embryo,is a part of embryo|is a part of embryo,is a part of embryo,is a part of UBERON:0006763,is a part of UBERON:0006763|is a part of embryo,is a part of embryo,is a part of limb epidermis,is a part of limb epidermis|is a part of embryo,is a part of embryo,is a part of UBERON:0014388,is a part of UBERON:0014388|is a part of UBERON:0004022,is a part of UBERON:0004022		IDA		J:117883 	
+MGI:2685641	Frem3	Fras1 related extracellular matrix protein 3	8		basement membrane			IDA		J:124197 J:128304 	
+MGI:1917825	Gfod2	glucose-fructose oxidoreductase domain containing 2	8		extracellular matrix			IBA	PTN000503705 	J:265628 	
+MGI:1917825	Gfod2	glucose-fructose oxidoreductase domain containing 2	8		extracellular matrix			IDA		J:139122 	
+MGI:95707	Gh	growth hormone	11		collagen-containing extracellular matrix			ISO	RGD:2686 	J:155856 	
+MGI:104967	Glg1	golgi apparatus protein 1	8		extracellular matrix			IDA		J:163721 	
+MGI:3646222	Gm5771	predicted gene 5771	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1333744	Gp1ba	glycoprotein 1b, alpha polypeptide	11		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1194891	Gpc1	glypican 1	1		collagen-containing extracellular matrix			IEA	IPR001863 	J:72247 	
+MGI:1194891	Gpc1	glypican 1	1		extracellular matrix			IDA		J:161728 	
+MGI:1919201	Gpc2	glypican 2 (cerebroglycan)	5		collagen-containing extracellular matrix			IEA	IPR001863 	J:72247 	
+MGI:104903	Gpc3	glypican 3	X		collagen-containing extracellular matrix			IEA	IPR001863 	J:72247 	
+MGI:104902	Gpc4	glypican 4	X		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1194894	Gpc5	glypican 5	14		collagen-containing extracellular matrix			IEA	IPR001863 	J:72247 	
+MGI:1346322	Gpc6	glypican 6	14		collagen-containing extracellular matrix			IEA	IPR001863 	J:72247 	
+MGI:106604	Gpld1	glycosylphosphatidylinositol specific phospholipase D1	13		extracellular matrix			IBA	PTN000576507 	J:265628 	
+MGI:106604	Gpld1	glycosylphosphatidylinositol specific phospholipase D1	13		extracellular matrix	is a part of skeleton		IDA		J:99694 	
+MGI:1342273	Gsto1	glutathione S-transferase omega 1	19		basement membrane			ISO	RGD:70952 	J:155856 	
+MGI:1337006	Hapln1	hyaluronan and proteoglycan link protein 1	13		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1337006	Hapln1	hyaluronan and proteoglycan link protein 1	13		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:1337006	Hapln1	hyaluronan and proteoglycan link protein 1	13		extracellular matrix			IDA		J:86321 	
+MGI:2137300	Hapln2	hyaluronan and proteoglycan link protein 2	3		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:2137300	Hapln2	hyaluronan and proteoglycan link protein 2	3		extracellular matrix	is a part of node of Ranvier		IDA		J:157824 	
+MGI:1914916	Hapln3	hyaluronan and proteoglycan link protein 3	7		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:2679531	Hapln4	hyaluronan and proteoglycan link protein 4	8		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:105942	Hcfc1	host cell factor C1	X		collagen-containing extracellular matrix	is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:105942	Hcfc1	host cell factor C1	X		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2685047	Hmcn1	hemicentin 1	1		basement membrane	is a part of eye,is a part of epithelial cell		IDA		J:123065 	
+MGI:2685047	Hmcn1	hemicentin 1	1		basement membrane			IDA		J:280675 J:289396 J:310857 	
+MGI:2685047	Hmcn1	hemicentin 1	1		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2685047	Hmcn1	hemicentin 1	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2685047	Hmcn1	hemicentin 1	1		collagen-containing extracellular matrix			IBA	PTN001070047 	J:265628 	
+MGI:2677838	Hmcn2	hemicentin 2	2		basement membrane	is a part of eye,is a part of epithelial cell		IDA		J:123065 	
+MGI:2677838	Hmcn2	hemicentin 2	2		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:2677838	Hmcn2	hemicentin 2	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2677838	Hmcn2	hemicentin 2	2		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1926465	Hnrnpm	heterogeneous nuclear ribonucleoprotein M	17		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:1343124	Hpse	heparanase	5		extracellular matrix			IBA	PTN001024081 	J:265628 	
+MGI:1343124	Hpse	heparanase	5		extracellular matrix			TAS		J:56032 	
+MGI:2685814	Hpse2	heparanase 2	19		extracellular matrix			IBA	PTN001024081 	J:265628 	
+MGI:2685814	Hpse2	heparanase 2	19		extracellular matrix			ISO	Q8WWQ2 	J:164563 	
+MGI:2146636	Hrg	histidine-rich glycoprotein	16		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1926967	Hsd17b12	hydroxysteroid (17-beta) dehydrogenase 12	2		extracellular matrix			IDA		J:139122 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane			IBA	PTN000832138 	J:265628 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane	is a part of EMAPA:28239		IDA		J:27732 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane	is a part of embryo endoderm|is a part of embryo ectoderm|is a part of Reichert's membrane|is a part of extraembryonic ectoderm|is a part of extraembryonic endoderm|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane	is a part of oral region epithelium,is a part of oral region epithelium|is a part of lower jaw incisor enamel organ,is a part of lower jaw incisor enamel organ|is a part of upper jaw incisor enamel organ,is a part of upper jaw incisor enamel organ|is a part of dental pulp,is a part of dental pulp		IDA		J:98778 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane	is a part of brain		IDA		J:58700 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane	is a part of uterus|is a part of blood vessel		IDA		J:55507 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane	is a part of endometrium luminal epithelium,is a part of epithelial cell		IDA		J:55507 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		basement membrane			IDA		J:73993 J:74542 J:81999 J:95191 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		extracellular matrix	is a part of future spinal cord		IDA		J:194150 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		extracellular matrix	is a part of cartilage		IDA		J:110553 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		extracellular matrix	is a part of epiblast cell		IDA		J:58700 	
+MGI:96257	Hspg2	perlecan (heparan sulfate proteoglycan 2)	4		extracellular matrix			IDA		J:95191 	
+MGI:1929076	Htra1	HtrA serine peptidase 1	7		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1929076	Htra1	HtrA serine peptidase 1	7		collagen-containing extracellular matrix			IBA	PTN002741566 	J:265628 	
+MGI:1929076	Htra1	HtrA serine peptidase 1	7		collagen-containing extracellular matrix			ISO	RGD:69235 	J:155856 	
+MGI:96432	Igf1	insulin-like growth factor 1	10		interstitial matrix			ISO	RGD:2868 	J:155856 	
+MGI:96434	Igf2	insulin-like growth factor 2	7		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:96441	Igfbp6	insulin-like growth factor binding protein 6	15		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1352480	Igfbp7	insulin-like growth factor binding protein 7	5		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:1352480	Igfbp7	insulin-like growth factor binding protein 7	5		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:96533	Ihh	Indian hedgehog	1		extracellular matrix			IDA		J:71184 	
+MGI:98427	Il1rl1	interleukin 1 receptor-like 1	1		extracellular matrix	is a part of rib	PR:P14719-2	IDA		J:23635 	
+MGI:1270855	Il16	interleukin 16	7		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1926876	Impg1	interphotoreceptor matrix proteoglycan 1	9		interphotoreceptor matrix			IDA		J:288311 	
+MGI:3044955	Impg2	interphotoreceptor matrix proteoglycan 2	16		extracellular matrix	is a part of pigmented retinal epithelium		TAS		J:90670 	
+MGI:3044955	Impg2	interphotoreceptor matrix proteoglycan 2	16		interphotoreceptor matrix	is a part of retina		IDA		J:288311 	
+MGI:96572	Ins1	insulin I	19		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:96573	Ins2	insulin II	7		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1346085	Insl5	insulin-like 5	4		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:96605	Itga6	integrin alpha 6	2		basement membrane	is a part of salivary gland|is a part of pancreas		IDA		J:46802 	
+MGI:96610	Itgb1	integrin beta 1 (fibronectin receptor beta)	8		basement membrane			ISO	RGD:2927 	J:155856 	
+MGI:96613	Itgb4	integrin beta 4	11		basement membrane			IDA		J:116050 	
+MGI:96618	Itih1	inter-alpha trypsin inhibitor, heavy chain 1	14		collagen-containing extracellular matrix	is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:96618	Itih1	inter-alpha trypsin inhibitor, heavy chain 1	14		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:96618	Itih1	inter-alpha trypsin inhibitor, heavy chain 1	14		extracellular matrix			IDA		J:126717 	
+MGI:96619	Itih2	inter-alpha trypsin inhibitor, heavy chain 2	2		collagen-containing extracellular matrix	is a part of lung,is a part of lung		HDA		J:265604 	
+MGI:96619	Itih2	inter-alpha trypsin inhibitor, heavy chain 2	2		collagen-containing extracellular matrix	is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:96620	Itih3	inter-alpha trypsin inhibitor, heavy chain 3	14		collagen-containing extracellular matrix	is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:109536	Itih4	inter alpha-trypsin inhibitor, heavy chain 4	14		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:109536	Itih4	inter alpha-trypsin inhibitor, heavy chain 4	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1925751	Itih5	inter-alpha (globulin) inhibitor H5	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1925751	Itih5	inter-alpha (globulin) inhibitor H5	2		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1333831	Itln1	intelectin 1 (galactofuranose binding)	1		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2147606	Kazald1	Kazal-type serine peptidase inhibitor domain 1	19		extracellular matrix			IDA		J:139122 	
+MGI:2147606	Kazald1	Kazal-type serine peptidase inhibitor domain 1	19		interstitial matrix			IBA	PTN000366785 	J:265628 	
+MGI:2147606	Kazald1	Kazal-type serine peptidase inhibitor domain 1	19		interstitial matrix	is a part of periosteum		IDA		J:139122 	
+MGI:1097705	Kng1	kininogen 1	16		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:O08677-2	HDA		J:265607 	
+MGI:3027157	Kng2	kininogen 2	16		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:Q6S9I0	HDA		J:265607 	
+MGI:96698	Krt1	keratin 1	15		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:109343	Lad1	ladinin	1		basement membrane			IEA	KW-0084 	J:60000 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane			IBA	PTN000832138 	J:265628 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane	is a part of embryo		IDA		J:170416 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane	is a part of embryo endoderm|is a part of embryo ectoderm|is a part of Reichert's membrane|is a part of extraembryonic ectoderm|is a part of extraembryonic endoderm|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane	is a part of urinary system		IDA		J:71108 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane	is a part of ureter,is a part of endothelial cell|is a part of ureter,is a part of epithelial cell|is a part of medullary renal tubule,is a part of endothelial cell|is a part of medullary renal tubule,is a part of epithelial cell		IDA		J:43178 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane	is a part of ureter		IDA		J:154510 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane	is a part of head of caudate nucleus		IDA		J:139122 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane	is a part of primary sex cord		IDA		J:99128 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane			IDA		J:3920 J:33512 J:42107 J:66122 J:77264 J:82761 J:103978 J:106510 J:159151 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane			ISO	P25391 	J:164563 	
+MGI:99892	Lama1	laminin, alpha 1	17		basement membrane			TAS		J:37650 	
+MGI:99892	Lama1	laminin, alpha 1	17		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:99892	Lama1	laminin, alpha 1	17		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99892	Lama1	laminin, alpha 1	17		extracellular matrix	is a part of somite 08 dermomyotome|is a part of somite 09 dermomyotome|is a part of somite 10 dermomyotome|is a part of somite 11 dermomyotome|is a part of somite 12 dermomyotome		IDA		J:108443 	
+MGI:99892	Lama1	laminin, alpha 1	17		extracellular matrix	is a part of mammary gland epithelium		IDA		J:28286 	
+MGI:99892	Lama1	laminin, alpha 1	17		extracellular matrix			IDA		J:33512 J:76344 J:87860 J:109287 	
+MGI:99892	Lama1	laminin, alpha 1	17		laminin complex			IDA		J:19321 	
+MGI:99892	Lama1	laminin, alpha 1	17		laminin-1 complex			IDA		J:42107 J:124538 	
+MGI:99892	Lama1	laminin, alpha 1	17		laminin-1 complex			ISO	P25391 	J:164563 	
+MGI:99892	Lama1	laminin, alpha 1	17		laminin-3 complex			ISO	P25391 	J:164563 	
+MGI:99912	Lama2	laminin, alpha 2	10		basement membrane			IBA	PTN000832138 	J:265628 	
+MGI:99912	Lama2	laminin, alpha 2	10		basement membrane	is a part of Reichert's membrane|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:99912	Lama2	laminin, alpha 2	10		basement membrane	is a part of salivary gland		IDA		J:46802 	
+MGI:99912	Lama2	laminin, alpha 2	10		basement membrane	is a part of head of caudate nucleus		IDA		J:139122 	
+MGI:99912	Lama2	laminin, alpha 2	10		basement membrane	is a part of skeletal musculature		IDA		J:44761 	
+MGI:99912	Lama2	laminin, alpha 2	10		basement membrane			IDA		J:42107 J:77264 	
+MGI:99912	Lama2	laminin, alpha 2	10		basement membrane			ISO	P24043 	J:164563 	
+MGI:99912	Lama2	laminin, alpha 2	10		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:99912	Lama2	laminin, alpha 2	10		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99909	Lama3	laminin, alpha 3	18		basement membrane			IBA	PTN000832138 	J:265628 	
+MGI:99909	Lama3	laminin, alpha 3	18		basement membrane	is a part of Reichert's membrane|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:99909	Lama3	laminin, alpha 3	18		basement membrane	is a part of head of caudate nucleus,is a part of head of caudate nucleus		IDA		J:139122 	
+MGI:99909	Lama3	laminin, alpha 3	18		basement membrane			IDA		J:42107 J:77264 	
+MGI:99909	Lama3	laminin, alpha 3	18		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:99909	Lama3	laminin, alpha 3	18		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99909	Lama3	laminin, alpha 3	18		laminin-5 complex			IBA	PTN000742947 	J:265628 	
+MGI:99909	Lama3	laminin, alpha 3	18		laminin-5 complex			IDA		J:42107 	
+MGI:109321	Lama4	laminin, alpha 4	10		basement membrane	is a part of head of caudate nucleus		IDA		J:139122 	
+MGI:109321	Lama4	laminin, alpha 4	10		basement membrane	is a part of capillary|is a part of arteriole|is a part of venule		IDA		J:44761 	
+MGI:109321	Lama4	laminin, alpha 4	10		basement membrane	is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:109321	Lama4	laminin, alpha 4	10		basement membrane			IDA		J:43712 J:77624 	
+MGI:109321	Lama4	laminin, alpha 4	10		basement membrane			ISO	Q16363 	J:164563 	
+MGI:109321	Lama4	laminin, alpha 4	10		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:109321	Lama4	laminin, alpha 4	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane			IBA	PTN000832138 	J:265628 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of EMAPA:28239		IDA		J:154510 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of ureter,is a part of epithelial cell|is a part of ureter,is a part of endothelial cell|is a part of metanephros,is a part of epithelial cell|is a part of metanephros,is a part of endothelial cell|is a part of cardiovascular system,is a part of epithelial cell|is a part of cardiovascular system,is a part of endothelial cell		IDA		J:43178 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of head of caudate nucleus		IDA		J:139122 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of glomerular tuft		IDA		J:113125 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of capillary|is a part of arteriole|is a part of venule		IDA		J:44761 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of lymphatic vessel		IDA		J:185190 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane	is a part of epithelial cell		IDA		J:71478 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane			IDA		J:49764 J:60126 J:77264 J:77644 J:83570 J:84903 J:86123 	
+MGI:105382	Lama5	laminin, alpha 5	2		basement membrane			ISO	O15230 	J:164563 	
+MGI:105382	Lama5	laminin, alpha 5	2		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:105382	Lama5	laminin, alpha 5	2		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:105382	Lama5	laminin, alpha 5	2		extracellular matrix	is a part of somite 08 dermomyotome|is a part of somite 09 dermomyotome|is a part of somite 10 dermomyotome|is a part of somite 11 dermomyotome|is a part of somite 12 dermomyotome		IDA		J:108443 	
+MGI:105382	Lama5	laminin, alpha 5	2		laminin-10 complex			IPI	PR:P02468 PR:P02469 	J:43178 	
+MGI:105382	Lama5	laminin, alpha 5	2		laminin-10 complex			ISO	O15230 	J:164563 	
+MGI:105382	Lama5	laminin, alpha 5	2		laminin-5 complex			IBA	PTN000742947 	J:265628 	
+MGI:105382	Lama5	laminin, alpha 5	2		laminin-5 complex			ISO	RGD:621023 	J:155856 	
+MGI:96743	Lamb1	laminin B1	12		basement membrane	is a part of embryo		IDA		J:91048 	
+MGI:96743	Lamb1	laminin B1	12		basement membrane	is a part of embryo endoderm|is a part of embryo ectoderm|is a part of Reichert's membrane|is a part of extraembryonic ectoderm|is a part of extraembryonic endoderm|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:96743	Lamb1	laminin B1	12		basement membrane	is a part of head of caudate nucleus		IDA		J:139122 	
+MGI:96743	Lamb1	laminin B1	12		basement membrane	is a part of cell of skeletal muscle|is a part of capillary|is a part of arteriole|is a part of venule		IDA		J:44761 	
+MGI:96743	Lamb1	laminin B1	12		basement membrane			IDA		J:3920 J:42107 J:83570 J:103978 J:132545 J:159151 	
+MGI:96743	Lamb1	laminin B1	12		basement membrane			ISO	P07942 	J:164563 	
+MGI:96743	Lamb1	laminin B1	12		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:96743	Lamb1	laminin B1	12		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:96743	Lamb1	laminin B1	12		collagen-containing extracellular matrix			ISO	RGD:1306311 	J:155856 	
+MGI:96743	Lamb1	laminin B1	12		extracellular matrix	is a part of somite 08 dermomyotome|is a part of somite 09 dermomyotome|is a part of somite 10 dermomyotome|is a part of somite 11 dermomyotome|is a part of somite 12 dermomyotome		IDA		J:108443 	
+MGI:96743	Lamb1	laminin B1	12		laminin complex			IBA	PTN000832288 	J:265628 	
+MGI:96743	Lamb1	laminin B1	12		laminin complex			IDA		J:19321 	
+MGI:96743	Lamb1	laminin B1	12		laminin-1 complex			IDA		J:42107 	
+MGI:96743	Lamb1	laminin B1	12		laminin-1 complex			ISO	P07942 	J:164563 	
+MGI:96743	Lamb1	laminin B1	12		laminin-10 complex			IPI	PR:P02468 PR:Q61001 	J:43178 	
+MGI:96743	Lamb1	laminin B1	12		laminin-10 complex			ISO	P07942 	J:164563 	
+MGI:96743	Lamb1	laminin B1	12		laminin-2 complex			ISO	P07942 	J:164563 	
+MGI:96743	Lamb1	laminin B1	12		laminin-8 complex			ISO	P07942 	J:164563 	
+MGI:99916	Lamb2	laminin, beta 2	9		basement membrane	is a part of glomerular tuft		IDA		J:27732 	
+MGI:99916	Lamb2	laminin, beta 2	9		basement membrane			IDA		J:132545 	
+MGI:99916	Lamb2	laminin, beta 2	9		basement membrane			ISO	P55268 	J:164563 	
+MGI:99916	Lamb2	laminin, beta 2	9		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:99916	Lamb2	laminin, beta 2	9		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99916	Lamb2	laminin, beta 2	9		laminin complex			IBA	PTN000832288 	J:265628 	
+MGI:99916	Lamb2	laminin, beta 2	9		laminin complex			IDA		J:19321 	
+MGI:99916	Lamb2	laminin, beta 2	9		laminin-3 complex			IDA		J:163713 	
+MGI:99916	Lamb2	laminin, beta 2	9		laminin-3 complex			ISO	P55268 	J:164563 	
+MGI:99915	Lamb3	laminin, beta 3	1		basement membrane	is a part of EMAPA:16039		IDA		J:139122 	
+MGI:99915	Lamb3	laminin, beta 3	1		basement membrane	is a part of skin		IDA		J:17618 	
+MGI:99915	Lamb3	laminin, beta 3	1		basement membrane			IDA		J:42107 	
+MGI:99915	Lamb3	laminin, beta 3	1		basement membrane	is a part of skin		ISS		J:17618 	
+MGI:99915	Lamb3	laminin, beta 3	1		collagen-containing extracellular matrix	is a part of lung,is a part of lung|is a part of colon,is a part of colon		HDA		J:265604 	
+MGI:99915	Lamb3	laminin, beta 3	1		laminin complex			IBA	PTN000832288 	J:265628 	
+MGI:99915	Lamb3	laminin, beta 3	1		laminin-5 complex			IDA		J:42107 	
+MGI:99914	Lamc1	laminin, gamma 1	1		basement membrane			IBA	PTN000832450 	J:265628 	
+MGI:99914	Lamc1	laminin, gamma 1	1		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:99914	Lamc1	laminin, gamma 1	1		basement membrane	is a part of embryo endoderm|is a part of embryo ectoderm|is a part of Reichert's membrane|is a part of extraembryonic ectoderm|is a part of extraembryonic endoderm|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:99914	Lamc1	laminin, gamma 1	1		basement membrane	is a part of glomerular tuft		IDA		J:27732 	
+MGI:99914	Lamc1	laminin, gamma 1	1		basement membrane	is a part of capillary|is a part of arteriole|is a part of venule|is a part of cell of skeletal muscle		IDA		J:44761 	
+MGI:99914	Lamc1	laminin, gamma 1	1		basement membrane			IDA		J:3920 J:42107 J:77264 J:83570 	
+MGI:99914	Lamc1	laminin, gamma 1	1		basement membrane			ISO	P11047 	J:164563 	
+MGI:99914	Lamc1	laminin, gamma 1	1		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:99914	Lamc1	laminin, gamma 1	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99914	Lamc1	laminin, gamma 1	1		collagen-containing extracellular matrix			ISO	RGD:621052 	J:155856 	
+MGI:99914	Lamc1	laminin, gamma 1	1		extracellular matrix			ISO	RGD:621052 	J:155856 	
+MGI:99914	Lamc1	laminin, gamma 1	1		laminin-1 complex			ISO	RGD:621052 	J:155856 	
+MGI:99914	Lamc1	laminin, gamma 1	1		laminin-10 complex			IPI	PR:P02469 PR:Q61001 	J:43178 	
+MGI:99913	Lamc2	laminin, gamma 2	1		basement membrane			IBA	PTN002471709 	J:265628 	
+MGI:99913	Lamc2	laminin, gamma 2	1		basement membrane	is a part of Reichert's membrane|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:99913	Lamc2	laminin, gamma 2	1		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:99913	Lamc2	laminin, gamma 2	1		basement membrane			IDA		J:42107 J:73852 	
+MGI:99913	Lamc2	laminin, gamma 2	1		collagen-containing extracellular matrix	is a part of lung,is a part of lung		HDA		J:265604 	
+MGI:99913	Lamc2	laminin, gamma 2	1		extracellular matrix			ISO	RGD:621053 	J:155856 	
+MGI:99913	Lamc2	laminin, gamma 2	1		laminin-2 complex			ISO	RGD:621053 	J:155856 	
+MGI:99913	Lamc2	laminin, gamma 2	1		laminin-5 complex			IDA		J:42107 	
+MGI:1344394	Lamc3	laminin gamma 3	2		basement membrane			IBA	PTN000832450 	J:265628 	
+MGI:1344394	Lamc3	laminin gamma 3	2		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:96777	Lgals1	lectin, galactose binding, soluble 1	15		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:96778	Lgals3	lectin, galactose binding, soluble 3	14		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:96778	Lgals3	lectin, galactose binding, soluble 3	14		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:96778	Lgals3	lectin, galactose binding, soluble 3	14		extracellular matrix	is a part of metatarsal bone		IDA		J:100747 	
+MGI:107536	Lgals4	lectin, galactose binding, soluble 4	7		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:109496	Lgals9	lectin, galactose binding, soluble 9	11		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1916114	Lgalsl	lectin, galactoside binding-like	11		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2441805	Lgr6	leucine-rich repeat-containing G protein-coupled receptor 6	1		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1915522	Lingo1	leucine rich repeat and Ig domain containing 1	9		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2442298	Lingo2	leucine rich repeat and Ig domain containing 2	4		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:3609246	Lingo3	leucine rich repeat and Ig domain containing 3	10		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2444651	Lingo4	leucine rich repeat and Ig domain containing 4	3		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1917611	Lman1	lectin, mannose-binding, 1	18		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:96817	Lox	lysyl oxidase	18		collagen-containing extracellular matrix	is a part of EMAPA:16728		HDA		J:265604 	
+MGI:96817	Lox	lysyl oxidase	18		extracellular matrix	is a part of submandibular gland		IDA		J:44769 	
+MGI:96817	Lox	lysyl oxidase	18		extracellular matrix			IDA		J:143612 J:220322 	
+MGI:96817	Lox	lysyl oxidase	18		extracellular matrix			ISO	P16636 	J:73065 	
+MGI:106096	Loxl1	lysyl oxidase-like 1	9		basement membrane			ISO	RGD:1308752 	J:155856 	
+MGI:106096	Loxl1	lysyl oxidase-like 1	9		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:106096	Loxl1	lysyl oxidase-like 1	9		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:106096	Loxl1	lysyl oxidase-like 1	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:106096	Loxl1	lysyl oxidase-like 1	9		extracellular matrix			IDA		J:52170 	
+MGI:106096	Loxl1	lysyl oxidase-like 1	9		extracellular matrix			ISO	Q5FWS5 	J:73065 	
+MGI:2137913	Loxl2	lysyl oxidase-like 2	14		basement membrane			ISO	RGD:1308435 	J:155856 	
+MGI:2137913	Loxl2	lysyl oxidase-like 2	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:107935	Lrig1	leucine-rich repeats and immunoglobulin-like domains 1	6		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2443718	Lrig2	leucine-rich repeats and immunoglobulin-like domains 2	3		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2384996	Lrrc3b	leucine rich repeat containing 3B	14		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2684858	Lrrc3c	leucine rich repeat containing 3C	11		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1921738	Lrrc15	leucine rich repeat containing 15	16	colocalizes_with	collagen-containing extracellular matrix			ISO	Q8TF66 	J:164563 	
+MGI:1921738	Lrrc15	leucine rich repeat containing 15	16		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1921761	Lrrc17	leucine rich repeat containing 17	5		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:3605040	Lrrc24	leucine rich repeat containing 24	15		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:93882	Lrrc32	leucine rich repeat containing 32	7		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:106038	Lrrn1	leucine rich repeat protein 1, neuronal	6		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:106037	Lrrn2	leucine rich repeat protein 2, neuronal	1		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:106036	Lrrn3	leucine rich repeat protein 3, neuronal	12		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2389173	Lrrtm1	leucine rich repeat transmembrane neuronal 1	6		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2389177	Lrrtm3	leucine rich repeat transmembrane neuronal 3	10		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:2389180	Lrrtm4	leucine rich repeat transmembrane neuronal 4	6		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		collagen-containing extracellular matrix			ISO	RGD:68379 	J:155856 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		collagen-containing extracellular matrix			ISO	Q14766 	J:164563 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		extracellular matrix			IDA		J:37693 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		extracellular matrix			ISO	Q14766 	J:164563 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		microfibril			IDA		J:151111 	
+MGI:109151	Ltbp1	latent transforming growth factor beta binding protein 1	17		microfibril			ISO	Q14766 	J:164563 	
+MGI:99502	Ltbp2	latent transforming growth factor beta binding protein 2	12		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:99502	Ltbp2	latent transforming growth factor beta binding protein 2	12		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1101355	Ltbp3	latent transforming growth factor beta binding protein 3	19		collagen-containing extracellular matrix			ISO	Q9NS15 	J:164563 	
+MGI:1101355	Ltbp3	latent transforming growth factor beta binding protein 3	19		extracellular matrix			ISA	M34057 	J:24946 	
+MGI:1321395	Ltbp4	latent transforming growth factor beta binding protein 4	7		collagen-containing extracellular matrix	is a part of lung|is a part of colon	UniProtKB:Q8K4G1-2	HDA		J:265604 	
+MGI:1321395	Ltbp4	latent transforming growth factor beta binding protein 4	7		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:Q8K4G1-2	HDA		J:265607 	
+MGI:1321395	Ltbp4	latent transforming growth factor beta binding protein 4	7		collagen-containing extracellular matrix			ISO	Q8N2S1 	J:164563 	
+MGI:1321395	Ltbp4	latent transforming growth factor beta binding protein 4	7		extracellular matrix			IDA		J:78819 	
+MGI:1321395	Ltbp4	latent transforming growth factor beta binding protein 4	7		extracellular matrix			ISO	Q8N2S1 	J:164563 	
+MGI:1321395	Ltbp4	latent transforming growth factor beta binding protein 4	7		microfibril			IDA		J:151111 	
+MGI:109347	Lum	lumican	10		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:109347	Lum	lumican	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:109347	Lum	lumican	10		extracellular matrix			IDA		J:80731 	
+MGI:109347	Lum	lumican	10		extracellular matrix			ISO	RGD:620984 	J:155856 	
+MGI:109347	Lum	lumican	10		fibrillar collagen trimer			ISO	P51884 	J:164563 	
+MGI:1918988	Mamdc2	MAM domain containing 2	19		extracellular matrix			IDA		J:139122 	
+MGI:1918988	Mamdc2	MAM domain containing 2	19		interstitial matrix	is a part of cartilage		IDA		J:139122 	
+MGI:106591	Matn1	matrilin 1, cartilage matrix protein	4		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:106591	Matn1	matrilin 1, cartilage matrix protein	4		extracellular matrix			IDA		J:74049 	
+MGI:109613	Matn2	matrilin 2	15		basement membrane			IDA		J:150519 	
+MGI:109613	Matn2	matrilin 2	15		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:109613	Matn2	matrilin 2	15		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:109613	Matn2	matrilin 2	15		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:109613	Matn2	matrilin 2	15		collagen-containing extracellular matrix			IDA		J:54894 	
+MGI:109613	Matn2	matrilin 2	15		extracellular matrix			IDA		J:74049 	
+MGI:109613	Matn2	matrilin 2	15		matrilin complex			IPI		J:54894 	
+MGI:1328350	Matn3	matrilin 3	12		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1328350	Matn3	matrilin 3	12		collagen-containing extracellular matrix			IDA		J:60310 	
+MGI:1328350	Matn3	matrilin 3	12		extracellular matrix			IDA		J:74049 	
+MGI:1328350	Matn3	matrilin 3	12		matrilin complex			IPI		J:60310 	
+MGI:1328314	Matn4	matrilin 4	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1328314	Matn4	matrilin 4	2		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1328314	Matn4	matrilin 4	2		collagen-containing extracellular matrix			IDA		J:69493 	
+MGI:1328314	Matn4	matrilin 4	2		matrilin complex			IPI		J:69493 	
+MGI:96924	Mbl2	mannose-binding lectin (protein C) 2	19		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1919351	Megf6	multiple EGF-like-domains 6	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1918264	Megf9	multiple EGF-like-domains 9	4		basement membrane			IBA	PTN000832450 	J:265628 	
+MGI:1918264	Megf9	multiple EGF-like-domains 9	4		basement membrane			IDA		J:118579 	
+MGI:2137384	Mepe	matrix extracellular phosphoglycoprotein with ASARM motif (bone)	5		extracellular matrix			IBA	PTN000421142 	J:265628 	
+MGI:2137384	Mepe	matrix extracellular phosphoglycoprotein with ASARM motif (bone)	5		extracellular matrix			ISO	AF325916 	J:70223 	
+MGI:1914782	Mfap1a	microfibrillar-associated protein 1A	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1914782	Mfap1a	microfibrillar-associated protein 1A	2		microfibril			ISO	P55081 	J:164563 	
+MGI:3694697	Mfap1b	microfibrillar-associated protein 1B	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:3694697	Mfap1b	microfibrillar-associated protein 1B	2		microfibril			ISO	P55081 	J:164563 	
+MGI:99559	Mfap2	microfibrillar-associated protein 2	4		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:99559	Mfap2	microfibrillar-associated protein 2	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99559	Mfap2	microfibrillar-associated protein 2	4		microfibril			IBA	PTN002702671 	J:265628 	
+MGI:99559	Mfap2	microfibrillar-associated protein 2	4		microfibril	is a part of lens capsule|is a part of ciliary body		IDA		J:226844 	
+MGI:99559	Mfap2	microfibrillar-associated protein 2	4		microfibril			ISO	P55001 	J:164563 	
+MGI:1342276	Mfap4	microfibrillar-associated protein 4	11		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1342276	Mfap4	microfibrillar-associated protein 4	11		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:1342276	Mfap4	microfibrillar-associated protein 4	11		collagen-containing extracellular matrix			ISO	P55083 	J:164563 	
+MGI:1342276	Mfap4	microfibrillar-associated protein 4	11		elastic fiber			ISO	P55083 	J:164563 	
+MGI:1342276	Mfap4	microfibrillar-associated protein 4	11		microfibril			ISO	P55083 	J:164563 	
+MGI:1354387	Mfap5	microfibrillar associated protein 5	6		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1354387	Mfap5	microfibrillar associated protein 5	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1354387	Mfap5	microfibrillar associated protein 5	6		extracellular matrix	is a part of CL:0000057		IDA		J:118147 	
+MGI:1354387	Mfap5	microfibrillar associated protein 5	6		microfibril			IBA	PTN002702671 	J:265628 	
+MGI:1354387	Mfap5	microfibrillar associated protein 5	6		microfibril			TAS		J:62831 	
+MGI:102768	Mfge8	milk fat globule EGF and factor V/VIII domain containing	7		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:96976	Mgp	matrix Gla protein	6		collagen-containing extracellular matrix			ISO	RGD:3088 	J:155856 	
+MGI:96976	Mgp	matrix Gla protein	6		extracellular matrix			IBA	PTN002561254 	J:265628 	
+MGI:1933847	Mmp1b	matrix metallopeptidase 1b (interstitial collagenase)	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:97009	Mmp2	matrix metallopeptidase 2	8		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:97010	Mmp3	matrix metallopeptidase 3	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:103189	Mmp7	matrix metallopeptidase 7	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:1202395	Mmp8	matrix metallopeptidase 8	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:97011	Mmp9	matrix metallopeptidase 9	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:97011	Mmp9	matrix metallopeptidase 9	2		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:97007	Mmp10	matrix metallopeptidase 10	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:97008	Mmp11	matrix metallopeptidase 11	10		extracellular matrix			IC	GO:0030198 	J:142976 	
+MGI:97008	Mmp11	matrix metallopeptidase 11	10		extracellular matrix			ISO	P24347 	J:142976 	
+MGI:97005	Mmp12	matrix metallopeptidase 12	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:1340026	Mmp13	matrix metallopeptidase 13	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:101900	Mmp14	matrix metallopeptidase 14 (membrane-inserted)	14		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:109320	Mmp15	matrix metallopeptidase 15	8		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:1276107	Mmp16	matrix metallopeptidase 16	4		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:1346076	Mmp17	matrix metallopeptidase 17	5		extracellular matrix			IEA	IPR001818 	J:72247 	
+MGI:1927899	Mmp19	matrix metallopeptidase 19	10		extracellular matrix			IEA	IPR001818 	J:72247 	
+MGI:1353466	Mmp20	matrix metallopeptidase 20 (enamelysin)	9		extracellular matrix			IEA	IPR001818 IPR021158 	J:72247 	
+MGI:2664387	Mmp21	matrix metallopeptidase 21	7		extracellular matrix			IEA	IPR001818 	J:72247 	
+MGI:1347361	Mmp23	matrix metallopeptidase 23	4		extracellular matrix			IEA	IPR001818 	J:72247 	
+MGI:1341867	Mmp24	matrix metallopeptidase 24	2		extracellular matrix			IEA	IPR001818 	J:72247 	
+MGI:2443938	Mmp25	matrix metallopeptidase 25	17		extracellular matrix			IEA	IPR001818 	J:72247 	
+MGI:1918195	Mmrn1	multimerin 1	6		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1918195	Mmrn1	multimerin 1	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1918195	Mmrn1	multimerin 1	6		collagen-containing extracellular matrix			ISO	Q13201 	J:164563 	
+MGI:1918195	Mmrn1	multimerin 1	6		multimerin complex			ISO	Q13201 	J:164563 	
+MGI:2385618	Mmrn2	multimerin 2	14		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:2385618	Mmrn2	multimerin 2	14		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2385618	Mmrn2	multimerin 2	14		collagen-containing extracellular matrix			ISO	Q9H8L6 	J:164563 	
+MGI:2385618	Mmrn2	multimerin 2	14		extracellular matrix			TAS		J:232756 	
+MGI:97231	Muc1	mucin 1, transmembrane	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1339364	Muc2	mucin 2	7		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1339364	Muc2	mucin 2	7		extracellular matrix	is a part of intestine mucosa		IDA		J:150765 	
+MGI:1339364	Muc2	mucin 2	7		extracellular matrix			IDA		J:92456 	
+MGI:2153525	Muc4	mucin 4	16		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:104697	Muc5ac	mucin 5, subtypes A and C, tracheobronchial/gastric	7		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:1921430	Muc5b	mucin 5, subtype B, tracheobronchial	7		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:2663233	Muc6	mucin 6, gastric	7		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:1202864	Myoc	myocilin	1		collagen-containing extracellular matrix			ISO	Q99972 	J:164563 	
+MGI:2183691	Nav2	neuron navigator 2	7		extracellular matrix			IDA		J:139122 	
+MGI:2183691	Nav2	neuron navigator 2	7		interstitial matrix	is a part of tendon|is a part of ligament		IDA		J:139122 	
+MGI:104694	Ncan	neurocan	8		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:104694	Ncan	neurocan	8		perineuronal net			ISO	RGD:619941 	J:155856 	
+MGI:1915419	Ndnf	neuron-derived neurotrophic factor	6		extracellular matrix			IDA		J:139122 	
+MGI:102570	Ndp	Norrie disease (pseudoglioma) (human)	X		collagen-containing extracellular matrix			IDA		J:107732 	
+MGI:102570	Ndp	Norrie disease (pseudoglioma) (human)	X		collagen-containing extracellular matrix			ISO	Q00604 	J:164563 	
+MGI:102570	Ndp	Norrie disease (pseudoglioma) (human)	X		extracellular matrix			IBA	PTN002006975 	J:265628 	
+MGI:1913900	Nepn	nephrocan	10		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1913900	Nepn	nephrocan	10		extracellular matrix			IDA		J:139122 	
+MGI:1913900	Nepn	nephrocan	10		interstitial matrix	is a part of periosteum		IDA		J:139122 	
+MGI:1913276	Ngly1	N-glycanase 1	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane	is a part of embryo,is a part of embryo		IDA		J:139122 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane	is a part of embryo endoderm|is a part of embryo ectoderm|is a part of Reichert's membrane|is a part of extraembryonic ectoderm|is a part of extraembryonic endoderm|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane	is a part of embryo ectoderm		IDA		J:66122 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane	is a part of glomerular tuft		IDA		J:27732 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane			IDA		J:77264 J:81999 J:86627 J:108496 J:128304 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane			IPI	P02462 P08572 PR:P02468 PR:P37889 PR:Q05793 	J:79202 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane			ISO	P14543 	J:164563 	
+MGI:97342	Nid1	nidogen 1	13		basement membrane			TAS		J:64030 	
+MGI:97342	Nid1	nidogen 1	13		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:97342	Nid1	nidogen 1	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:97342	Nid1	nidogen 1	13		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:97342	Nid1	nidogen 1	13		extracellular matrix	is a part of liver parenchyma|is a part of liver left lobe parenchyma|is a part of liver caudate lobe parenchyma|is a part of liver quadrate lobe parenchyma		IDA		J:108466 	
+MGI:1298229	Nid2	nidogen 2	14		basement membrane			IBA	PTN004353013 	J:265628 	
+MGI:1298229	Nid2	nidogen 2	14		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:1298229	Nid2	nidogen 2	14		basement membrane	is a part of embryo endoderm|is a part of embryo ectoderm|is a part of Reichert's membrane|is a part of extraembryonic ectoderm|is a part of extraembryonic endoderm|is a part of decidua|is a part of capillary		IDA		J:98797 	
+MGI:1298229	Nid2	nidogen 2	14		basement membrane			IPI	P02462 P08572 PR:P02468 PR:P37889 PR:Q05793 	J:79202 	
+MGI:1298229	Nid2	nidogen 2	14		basement membrane			ISO	Q14112 	J:164563 	
+MGI:1298229	Nid2	nidogen 2	14		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1298229	Nid2	nidogen 2	14		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:1298229	Nid2	nidogen 2	14		extracellular matrix	is a part of liver parenchyma|is a part of liver left lobe parenchyma|is a part of liver caudate lobe parenchyma|is a part of liver quadrate lobe parenchyma		IDA		J:108466 	
+MGI:97364	Notch2	notch 2	3		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:1859637	Nphs1	nephrosis 1, nephrin	7		basement membrane			ISO	RGD:620460 	J:155856 	
+MGI:2148811	Npnt	nephronectin	3		basement membrane	is a part of EMAPA:16039		IDA		J:139122 	
+MGI:2148811	Npnt	nephronectin	3		basement membrane			IDA		J:170886 	
+MGI:2148811	Npnt	nephronectin	3		collagen-containing extracellular matrix	is a part of lung	UniProtKB:Q91V88-4	HDA		J:265604 	
+MGI:2148811	Npnt	nephronectin	3		collagen-containing extracellular matrix			IDA		J:170886 	
+MGI:2148811	Npnt	nephronectin	3		extracellular matrix			IDA		J:70545 J:72544 	
+MGI:2148811	Npnt	nephronectin	3		extracellular matrix			IPI	Q8BPT3 	J:70545 	
+MGI:105088	Ntn1	netrin 1	11		basement membrane			IBA	PTN002471709 	J:265628 	
+MGI:105088	Ntn1	netrin 1	11		basement membrane	is a part of EMAPA:18547		IDA		J:139122 	
+MGI:105088	Ntn1	netrin 1	11		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:105088	Ntn1	netrin 1	11		extracellular matrix			ISO	RGD:619809 	J:155856 	
+MGI:1341188	Ntn3	netrin 3	17		basement membrane			IBA	PTN002471709 	J:265628 	
+MGI:1888978	Ntn4	netrin 4	10		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:1888978	Ntn4	netrin 4	10		basement membrane	is a part of metanephros		IDA		J:124769 	
+MGI:1888978	Ntn4	netrin 4	10		basement membrane			IDA		J:90754 	
+MGI:1888978	Ntn4	netrin 4	10		basement membrane			ISS		J:65168 	
+MGI:1888978	Ntn4	netrin 4	10		laminin complex			IBA	PTN000832288 	J:265628 	
+MGI:2685330	Ntn5	netrin 5	7		basement membrane			IBA	PTN002471709 	J:265628 	
+MGI:1934028	Ntng1	netrin G1	3		laminin complex			IBA	PTN000832288 	J:265628 	
+MGI:2159341	Ntng2	netrin G2	2		laminin complex			IBA	PTN000832288 	J:265628 	
+MGI:2448607	Nyx	nyctalopin	X		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1313269	Oc90	otoconin 90	15		extracellular matrix			IBA	PTN000919207 	J:265628 	
+MGI:1313269	Oc90	otoconin 90	15		extracellular matrix			IDA		J:52192 	
+MGI:109278	Ogn	osteoglycin	13		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:109278	Ogn	osteoglycin	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2444741	Olfml2a	olfactomedin-like 2A	2		extracellular matrix			IDA		J:117552 J:139122 	
+MGI:2443310	Olfml2b	olfactomedin-like 2B	1		extracellular matrix			IDA		J:117552 J:139122 	
+MGI:1350918	Omd	osteomodulin	13		collagen-containing extracellular matrix			IEA	IPR030705 	J:72247 	
+MGI:1350918	Omd	osteomodulin	13		extracellular matrix			IDA		J:102746 	
+MGI:2151113	Optc	opticin	1		extracellular matrix			IBA	PTN000689556 	J:265628 	
+MGI:2151113	Optc	opticin	1		extracellular matrix	is a part of eye		IDA		J:191528 	
+MGI:2151113	Optc	opticin	1		extracellular matrix			ISO	Q9UBM4 	J:164563 	
+MGI:1202064	Otog	otogelin	7		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:1202064	Otog	otogelin	7		extracellular matrix			IDA		J:45072 	
+MGI:3647600	Otogl	otogelin-like	10		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:2685260	Otol1	otolin 1	3		collagen type IV trimer			IBA	PTN002770666 	J:265628 	
+MGI:2685260	Otol1	otolin 1	3		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:106661	Ovgp1	oviductal glycoprotein 1	3		egg coat			IDA		J:154618 	
+MGI:1888921	P3h1	prolyl 3-hydroxylase 1	4		basement membrane			ISO	Q9R1J8 	J:73065 	
+MGI:2146663	P3h2	prolyl 3-hydroxylase 2	16		basement membrane	is a part of UBERON:0000082		IDA		J:138660 	
+MGI:2386139	Papln	papilin, proteoglycan-like sulfated glycoprotein	12		basement membrane	is a part of embryo		IDA		J:139122 	
+MGI:2386139	Papln	papilin, proteoglycan-like sulfated glycoprotein	12		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:2386139	Papln	papilin, proteoglycan-like sulfated glycoprotein	12		extracellular matrix			IBA	PTN000347317 	J:265628 	
+MGI:1923727	Pcolce2	procollagen C-endopeptidase enhancer 2	9		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	7		collagen-containing extracellular matrix			IBA	PTN002872294 	J:265628 	
+MGI:102897	Pcsk6	proprotein convertase subtilisin/kexin type 6	7		collagen-containing extracellular matrix			ISO	P29122 	J:164563 	
+MGI:1888711	Pf4	platelet factor 4	5		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2447348	Phospho1	phosphatase, orphan 1	11		extracellular matrix	is a part of bone		IDA		J:179862 	
+MGI:2447348	Phospho1	phosphatase, orphan 1	11		extracellular matrix			ISO	O73884 	J:114091 	
+MGI:97591	Pkm	pyruvate kinase, muscle	9		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:97620	Plg	plasminogen	17		collagen-containing extracellular matrix	is a part of EMAPA:16728		HDA		J:265604 	
+MGI:97620	Plg	plasminogen	17		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:99907	Plod1	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1	4		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1347008	Plod3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	5		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1347008	Plod3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	5		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1347008	Plod3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3	5		collagen-containing extracellular matrix			IDA		J:236095 	
+MGI:893575	Plscr1	phospholipid scramblase 1	9		collagen-containing extracellular matrix			ISO	O15162 	J:164563 	
+MGI:1270860	Plscr2	phospholipid scramblase 2	9		collagen-containing extracellular matrix			ISO	O15162 	J:164563 	
+MGI:1914698	Plxdc2	plexin domain containing 2	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:107684	Plxna2	plexin A2	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2154239	Plxnb2	plexin B2	15		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:2154239	Plxnb2	plexin B2	15		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:97631	Pmp22	peripheral myelin protein 22	11		laminin complex			IDA		J:104989 	
+MGI:2685352	Podnl1	podocan-like 1	8		collagen-containing extracellular matrix			IDA		J:233571 	
+MGI:1926321	Postn	periostin, osteoblast specific factor	3		collagen-containing extracellular matrix	is a part of lung|is a part of colon	UniProtKB:Q62009-2	HDA		J:265604 	
+MGI:1926321	Postn	periostin, osteoblast specific factor	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1926321	Postn	periostin, osteoblast specific factor	3		collagen-containing extracellular matrix			IDA		J:138129 	
+MGI:1926321	Postn	periostin, osteoblast specific factor	3		collagen-containing extracellular matrix			ISO	Q15063 	J:164563 	
+MGI:1926321	Postn	periostin, osteoblast specific factor	3		extracellular matrix			IBA	PTN000855676 	J:265628 	
+MGI:1926321	Postn	periostin, osteoblast specific factor	3		extracellular matrix	is a part of skeletal muscle		IDA		J:208903 	
+MGI:1926321	Postn	periostin, osteoblast specific factor	3		extracellular matrix			IDA		J:114806 	
+MGI:2151110	Prelp	proline arginine-rich end leucine-rich repeat	1		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:2151110	Prelp	proline arginine-rich end leucine-rich repeat	1		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:103294	Prg2	proteoglycan 2, bone marrow	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1891344	Prg4	proteoglycan 4 (megakaryocyte stimulating factor, articular superficial zone protein)	1		collagen-containing extracellular matrix			IBA	PTN000531402 	J:265628 	
+MGI:98839	Prss1	protease, serine 1 (trypsin 1)	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:102759	Prss2	protease, serine 2	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:102758	Prss3	protease, serine 3	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2681414	Prss34	protease, serine 34	17		extracellular matrix			IDA		J:139122 	
+MGI:97804	Ptn	pleiotrophin	6		basement membrane			ISO	RGD:3444 	J:155856 	
+MGI:97804	Ptn	pleiotrophin	6		extracellular matrix			TAS		J:77465 	
+MGI:97816	Ptprz1	protein tyrosine phosphatase, receptor type Z, polypeptide 1	6		extracellular matrix	adjacent to a CNS neuron (sensu Vertebrata)		IDA		J:146166 	
+MGI:97816	Ptprz1	protein tyrosine phosphatase, receptor type Z, polypeptide 1	6		extracellular matrix		PR:Q810U6	IDA		J:84104 	
+MGI:97816	Ptprz1	protein tyrosine phosphatase, receptor type Z, polypeptide 1	6		perineuronal net	is a part of optic nerve		IDA		J:62139 	
+MGI:97816	Ptprz1	protein tyrosine phosphatase, receptor type Z, polypeptide 1	6		perineuronal net			ISO	RGD:3455 	J:155856 	
+MGI:104641	Ptx3	pentraxin related gene	3		extracellular matrix	is a part of cumulus oophorus,is a part of cumulus oophorus		IDA		J:126717 	
+MGI:1916925	Pxdn	peroxidasin	12		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1916925	Pxdn	peroxidasin	12		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1916925	Pxdn	peroxidasin	12		collagen-containing extracellular matrix			IDA		J:150789 	
+MGI:1916925	Pxdn	peroxidasin	12		collagen-containing extracellular matrix			ISO	Q92626 	J:164563 	
+MGI:87854	Pzp	PZP, alpha-2-macroglobulin like	6		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:87854	Pzp	PZP, alpha-2-macroglobulin like	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1918910	Rarres2	retinoic acid receptor responder (tazarotene induced) 2	6		collagen-containing extracellular matrix			ISO	Q99969 	J:164563 	
+MGI:1918910	Rarres2	retinoic acid receptor responder (tazarotene induced) 2	6		extracellular matrix			IBA	PTN001031401 	J:265628 	
+MGI:97878	Rbp3	retinol binding protein 3, interstitial	14		cone matrix sheath			IBA	PTN000137262 	J:265628 	
+MGI:97878	Rbp3	retinol binding protein 3, interstitial	14		interphotoreceptor matrix			ISO	RGD:3545 	J:155856 	
+MGI:97895	Reg1	regenerating islet-derived 1	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:97896	Reg2	regenerating islet-derived 2	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:97478	Reg3b	regenerating islet-derived 3 beta	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:109406	Reg3g	regenerating islet-derived 3 gamma	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1918044	Rell2	RELT-like 2	18		basement membrane			IDA		J:139122 	
+MGI:1918044	Rell2	RELT-like 2	18		extracellular matrix			IDA		J:139122 	
+MGI:103022	Reln	reelin	5		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:103022	Reln	reelin	5		extracellular matrix	adjacent to a endothelial cell of lymphatic vessel		IDA		J:185190 	
+MGI:103022	Reln	reelin	5		extracellular matrix			TAS		J:75822 	
+MGI:105381	Rpsa	ribosomal protein SA	9		basement membrane			ISO	RGD:71026 	J:155856 	
+MGI:105381	Rpsa	ribosomal protein SA	9		collagen-containing extracellular matrix			ISO	RGD:71026 	J:155856 	
+MGI:2443686	Rtbdn	retbindin	8		interphotoreceptor matrix			IDA		J:233665 	
+MGI:2669796	Rtn4rl2	reticulon 4 receptor-like 2	2		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:99852	Runx1	runt related transcription factor 1	16		basement membrane			IDA		J:116050 	
+MGI:1338849	S100a3	S100 calcium binding protein A3	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1339467	S100a6	S100 calcium binding protein A6 (calcyclin)	3		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:1339468	S100a10	S100 calcium binding protein A10 (calpactin)	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1338798	S100a11	S100 calcium binding protein A11	3		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:1338798	S100a11	S100 calcium binding protein A11	3		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1338798	S100a11	S100 calcium binding protein A11	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:109581	S100a13	S100 calcium binding protein A13	3		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2444418	Scara3	scavenger receptor class A, member 3	14		extracellular matrix			IBA	PTN004649045 	J:265628 	
+MGI:107557	Sema3c	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	5		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2387661	Sema6d	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2447813	Serac1	serine active site containing 1	17		extracellular matrix			IDA		J:139122 	
+MGI:891971	Serpina1a	serine (or cysteine) peptidase inhibitor, clade A, member 1A	12		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:891971	Serpina1a	serine (or cysteine) peptidase inhibitor, clade A, member 1A	12		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:98377	Serpina3k	serine (or cysteine) peptidase inhibitor, clade A, member 3K	12		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:98377	Serpina3k	serine (or cysteine) peptidase inhibitor, clade A, member 3K	12		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1913472	Serpinb1a	serine (or cysteine) peptidase inhibitor, clade B, member 1a	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:103123	Serpinb6a	serine (or cysteine) peptidase inhibitor, clade B, member 6a	13		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:106603	Serpinb9	serine (or cysteine) peptidase inhibitor, clade B, member 9	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:88095	Serpinc1	serine (or cysteine) peptidase inhibitor, clade C (antithrombin), member 1	1		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:97608	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	5		collagen-containing extracellular matrix			ISO	P05121 	J:164563 	
+MGI:101780	Serpine2	serine (or cysteine) peptidase inhibitor, clade E, member 2	1		collagen-containing extracellular matrix			ISO	P07093 	J:164563 	
+MGI:108080	Serpinf1	serine (or cysteine) peptidase inhibitor, clade F, member 1	11		basement membrane			ISO	RGD:631369 	J:155856 	
+MGI:107173	Serpinf2	serine (or cysteine) peptidase inhibitor, clade F, member 2	11		collagen-containing extracellular matrix	is a part of lung,is a part of lung		HDA		J:265604 	
+MGI:107173	Serpinf2	serine (or cysteine) peptidase inhibitor, clade F, member 2	11		collagen-containing extracellular matrix	is a part of islets of Langerhans,is a part of islets of Langerhans		HDA		J:265607 	
+MGI:894696	Serping1	serine (or cysteine) peptidase inhibitor, clade G, member 1	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:88283	Serpinh1	serine (or cysteine) peptidase inhibitor, clade H, member 1	7		collagen-containing extracellular matrix	is a part of EMAPA:16728		HDA		J:265604 	
+MGI:88283	Serpinh1	serine (or cysteine) peptidase inhibitor, clade H, member 1	7		collagen-containing extracellular matrix	is a part of EMAPA:18939		HDA		J:265604 	
+MGI:88283	Serpinh1	serine (or cysteine) peptidase inhibitor, clade H, member 1	7		collagen-containing extracellular matrix	is a part of EMAPA:32927		HDA		J:265607 	
+MGI:1915181	Serpini2	serine (or cysteine) peptidase inhibitor, clade I, member 2	3		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:892014	Sfrp1	secreted frizzled-related protein 1	8		collagen-containing extracellular matrix			ISO	Q8N474 	J:164563 	
+MGI:109518	Sftpa1	surfactant associated protein A1	14		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:109516	Sftpb	surfactant associated protein B	6		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:109515	Sftpd	surfactant associated protein D	14		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:109515	Sftpd	surfactant associated protein D	14		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:98297	Shh	sonic hedgehog	5		extracellular matrix	is a part of tooth,is a part of tooth		IDA		J:71184 	
+MGI:1315205	Slit2	slit guidance ligand 2	5		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1339795	Smc3	structural maintenance of chromosomes 3	19		basement membrane			ISO	RGD:62006 	J:155856 	
+MGI:1929878	Smoc1	SPARC related  modular calcium binding 1	12		basement membrane			IBA	PTN000269943 	J:265628 	
+MGI:1929878	Smoc1	SPARC related  modular calcium binding 1	12		basement membrane	is a part of EMAPA:16039		IDA		J:139122 	
+MGI:1929881	Smoc2	SPARC related modular calcium binding 2	17		basement membrane			IBA	PTN000269943 	J:265628 	
+MGI:1929881	Smoc2	SPARC related modular calcium binding 2	17		basement membrane			IDA		J:139122 	
+MGI:1929881	Smoc2	SPARC related modular calcium binding 2	17		collagen-containing extracellular matrix			IEA	IPR037640 	J:72247 	
+MGI:1929881	Smoc2	SPARC related modular calcium binding 2	17		extracellular matrix			IDA		J:139122 	
+MGI:1929881	Smoc2	SPARC related modular calcium binding 2	17		interstitial matrix	is a part of cartilage		IDA		J:139122 	
+MGI:1920484	Snorc	secondary ossification center associated regulator of chondrocyte maturation	1		collagen-containing extracellular matrix			IDA		J:250431 	
+MGI:103181	Sod3	superoxide dismutase 3, extracellular	5	colocalizes_with	collagen-containing extracellular matrix			IDA		J:103848 	
+MGI:103181	Sod3	superoxide dismutase 3, extracellular	5		collagen-containing extracellular matrix			ISO	RGD:3733 	J:155856 	
+MGI:103181	Sod3	superoxide dismutase 3, extracellular	5		collagen-containing extracellular matrix			ISO	P08294 	J:164563 	
+MGI:98373	Sparc	secreted acidic cysteine rich glycoprotein	11		basement membrane			IEA	KW-0084 	J:60000 	
+MGI:98373	Sparc	secreted acidic cysteine rich glycoprotein	11		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:98373	Sparc	secreted acidic cysteine rich glycoprotein	11		extracellular matrix			IDA		J:36211 	
+MGI:108110	Sparcl1	SPARC-like 1	5		collagen-containing extracellular matrix			IEA	IPR016359 	J:72247 	
+MGI:108110	Sparcl1	SPARC-like 1	5		extracellular matrix of synaptic cleft			ISO	RGD:2531 	J:155856 	
+MGI:98384	Spn	sialophorin	7		basement membrane	is a part of glomerular basement membrane of mature renal corpuscle|is a part of bronchus|is a part of endometrium		IDA		J:18035 	
+MGI:1891351	Spock2	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 2	10		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1920152	Spock3	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 3	8		extracellular matrix			ISO	Q9BQ16 	J:164563 	
+MGI:2385287	Spon1	spondin 1, (f-spondin) extracellular matrix protein	7		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2385287	Spon1	spondin 1, (f-spondin) extracellular matrix protein	7		extracellular matrix			IBA	PTN002259349 	J:265628 	
+MGI:1923724	Spon2	spondin 2, extracellular matrix protein	5		extracellular matrix			IBA	PTN002259349 	J:265628 	
+MGI:1923724	Spon2	spondin 2, extracellular matrix protein	5		extracellular matrix	is a part of macrophage		IDA		J:87393 	
+MGI:1916042	Srpx2	sushi-repeat-containing protein, X-linked 2	X		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:3606211	Ssc5d	scavenger receptor cysteine rich family, 5 domains	7		collagen-containing extracellular matrix			IDA		J:169177 	
+MGI:3606211	Ssc5d	scavenger receptor cysteine rich family, 5 domains	7		extracellular matrix			IBA	PTN002320870 	J:265628 	
+MGI:2674311	Sspo	SCO-spondin	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2674311	Sspo	SCO-spondin	6		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:1928849	Svep1	sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1	4		extracellular matrix			TAS		J:262023 	
+MGI:109575	Tecta	tectorin alpha	9		collagen-containing extracellular matrix			IEA	IPR033026 	J:72247 	
+MGI:109575	Tecta	tectorin alpha	9		extracellular matrix			IDA		J:39295 	
+MGI:109575	Tecta	tectorin alpha	9		extracellular matrix			TAS		J:76334 	
+MGI:109574	Tectb	tectorin beta	19		extracellular matrix			IDA		J:39295 	
+MGI:109574	Tectb	tectorin beta	19		extracellular matrix			TAS		J:76334 	
+MGI:1930075	Tfip11	tuftelin interacting protein 11	5		extracellular matrix			IDA		J:63658 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		collagen-containing extracellular matrix			ISO	RGD:69051 	J:155856 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		collagen-containing extracellular matrix			ISO	P01137 	J:164563 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		extracellular matrix	is a part of lung,is a part of lung		IDA		J:32939 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		extracellular matrix			IDA		J:37693 J:78819 J:143612 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		transforming growth factor beta complex			IPI		J:142353 	
+MGI:98725	Tgfb1	transforming growth factor, beta 1	7		transforming growth factor beta complex			ISO	P01137 	J:164563 	
+MGI:98726	Tgfb2	transforming growth factor, beta 2	1		basement membrane			ISO	RGD:70491 	J:155856 	
+MGI:98726	Tgfb2	transforming growth factor, beta 2	1		collagen-containing extracellular matrix			ISO	P61812 	J:164563 	
+MGI:98726	Tgfb2	transforming growth factor, beta 2	1		transforming growth factor beta complex			ISO	P61812 	J:164563 	
+MGI:98727	Tgfb3	transforming growth factor, beta 3	12		collagen-containing extracellular matrix			ISO	P10600 	J:164563 	
+MGI:98727	Tgfb3	transforming growth factor, beta 3	12		extracellular matrix			IDA		J:69420 	
+MGI:98727	Tgfb3	transforming growth factor, beta 3	12		transforming growth factor beta complex			ISO	P10600 	J:164563 	
+MGI:99959	Tgfbi	transforming growth factor, beta induced	13		basement membrane			ISO	RGD:620017 	J:155856 	
+MGI:99959	Tgfbi	transforming growth factor, beta induced	13		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:99959	Tgfbi	transforming growth factor, beta induced	13		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:99959	Tgfbi	transforming growth factor, beta induced	13		extracellular matrix			IBA	PTN000855676 	J:265628 	
+MGI:99959	Tgfbi	transforming growth factor, beta induced	13		extracellular matrix			IDA		J:85509 	
+MGI:104637	Tgfbr3	transforming growth factor, beta receptor III	5		extracellular matrix			ISO	RGD:61821 	J:155856 	
+MGI:98731	Tgm2	transglutaminase 2, C polypeptide	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:98731	Tgm2	transglutaminase 2, C polypeptide	2		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:98731	Tgm2	transglutaminase 2, C polypeptide	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:98731	Tgm2	transglutaminase 2, C polypeptide	2		extracellular matrix			ISO	P21980 	J:164563 	
+MGI:98731	Tgm2	transglutaminase 2, C polypeptide	2		extracellular matrix			TAS		J:95130 	
+MGI:98732	Tgm3	transglutaminase 3, E polypeptide	2		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:3027002	Tgm4	transglutaminase 4 (prostate)	9		collagen-containing extracellular matrix			IBA	PTN002612914 	J:265628 	
+MGI:3027002	Tgm4	transglutaminase 4 (prostate)	9		collagen-containing extracellular matrix			ISO	P49221 	J:164563 	
+MGI:98737	Thbs1	thrombospondin 1	2		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:98737	Thbs1	thrombospondin 1	2		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:98737	Thbs1	thrombospondin 1	2		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:98737	Thbs1	thrombospondin 1	2		collagen-containing extracellular matrix			IBA	PTN002565423 	J:265628 	
+MGI:98737	Thbs1	thrombospondin 1	2		extracellular matrix			ISO	P07996 	J:164563 	
+MGI:98738	Thbs2	thrombospondin 2	17		basement membrane	is a part of EMAPA:32906|is a part of EMAPA:17625|is a part of EMAPA:18290		IDA		J:63332 	
+MGI:98738	Thbs2	thrombospondin 2	17		collagen-containing extracellular matrix			IBA	PTN002565423 	J:265628 	
+MGI:98738	Thbs2	thrombospondin 2	17		extracellular matrix	is a part of EMAPA:18948		IDA		J:63332 	
+MGI:98739	Thbs3	thrombospondin 3	3		collagen-containing extracellular matrix			IBA	PTN002565423 	J:265628 	
+MGI:1101779	Thbs4	thrombospondin 4	13		basement membrane			ISO	P35443 	J:164563 	
+MGI:1101779	Thbs4	thrombospondin 4	13		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:1101779	Thbs4	thrombospondin 4	13		collagen-containing extracellular matrix			IBA	PTN002565423 	J:265628 	
+MGI:1101779	Thbs4	thrombospondin 4	13		collagen-containing extracellular matrix			IDA		J:187437 	
+MGI:1101779	Thbs4	thrombospondin 4	13		extracellular matrix			ISO	RGD:62046 	J:155856 	
+MGI:2672033	Thsd4	thrombospondin, type I, domain containing 4	9		extracellular matrix	is a part of dermis|is a part of tail skeleton|is a part of aorta		IDA		J:160041 	
+MGI:2672033	Thsd4	thrombospondin, type I, domain containing 4	9		microfibril			IDA		J:160041 	
+MGI:98752	Timp1	tissue inhibitor of metalloproteinase 1	X		basement membrane			IDA		J:85488 	
+MGI:98752	Timp1	tissue inhibitor of metalloproteinase 1	X		basement membrane			ISO	RGD:621675 	J:155856 	
+MGI:98752	Timp1	tissue inhibitor of metalloproteinase 1	X		extracellular matrix			IBA	PTN000931945 	J:265628 	
+MGI:98752	Timp1	tissue inhibitor of metalloproteinase 1	X		extracellular matrix			IDA		J:85488 	
+MGI:98753	Timp2	tissue inhibitor of metalloproteinase 2	11		basement membrane			IDA		J:85488 	
+MGI:98753	Timp2	tissue inhibitor of metalloproteinase 2	11		extracellular matrix			IBA	PTN000931945 	J:265628 	
+MGI:98754	Timp3	tissue inhibitor of metalloproteinase 3	10		basement membrane			IDA		J:85488 	
+MGI:98754	Timp3	tissue inhibitor of metalloproteinase 3	10		extracellular matrix			IBA	PTN000931945 	J:265628 	
+MGI:109125	Timp4	tissue inhibitor of metalloproteinase 4	6		extracellular matrix			IBA	PTN000931945 	J:265628 	
+MGI:1349477	Tinag	tubulointerstitial nephritis antigen	9		basement membrane			ISO	Q9UJW2 	J:164563 	
+MGI:1349477	Tinag	tubulointerstitial nephritis antigen	9		collagen-containing extracellular matrix	is a part of lung		HDA		J:265604 	
+MGI:2137617	Tinagl1	tubulointerstitial nephritis antigen-like 1	4		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:2137617	Tinagl1	tubulointerstitial nephritis antigen-like 1	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:1861735	Tmeff2	transmembrane protein with EGF-like and two follistatin-like domains 2	1		basement membrane			IBA	PTN000832450 	J:265628 	
+MGI:101922	Tnc	tenascin C	4		basement membrane	is a part of thymus,is a part of epithelial cell|is a part of spleen,is a part of epithelial cell		IDA		J:13269 	
+MGI:101922	Tnc	tenascin C	4		basement membrane	is a part of prostate duct		IDA		J:144885 	
+MGI:101922	Tnc	tenascin C	4		basement membrane			IDA		J:37867 	
+MGI:101922	Tnc	tenascin C	4		collagen-containing extracellular matrix	is a part of colon		HDA		J:265604 	
+MGI:101922	Tnc	tenascin C	4		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:Q80YX0	HDA		J:265607 	
+MGI:101922	Tnc	tenascin C	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:101922	Tnc	tenascin C	4		collagen-containing extracellular matrix	is a part of fibroblast		HDA		J:213088 	
+MGI:101922	Tnc	tenascin C	4		collagen-containing extracellular matrix			IDA		J:213088 	
+MGI:101922	Tnc	tenascin C	4		collagen-containing extracellular matrix			ISO	P24821 	J:164563 	
+MGI:101922	Tnc	tenascin C	4		extracellular matrix			ISO	RGD:621057 	J:155856 	
+MGI:101922	Tnc	tenascin C	4		interstitial matrix	is a part of metanephros		IDA		J:74274 	
+MGI:101922	Tnc	tenascin C	4		perisynaptic extracellular matrix	is a part of brain		EXP		J:263376 	
+MGI:101922	Tnc	tenascin C	4		perisynaptic extracellular matrix	is a part of brain		IDA		J:263376 	
+MGI:101922	Tnc	tenascin C	4		tenascin complex			IPI		J:87910 	
+MGI:109587	Tnfrsf11b	tumor necrosis factor receptor superfamily, member 11b (osteoprotegerin)	15		extracellular matrix			IDA		J:39641 	
+MGI:2665790	Tnn	tenascin N	1		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:2665790	Tnn	tenascin N	1		collagen-containing extracellular matrix			IDA		J:87910 	
+MGI:2665790	Tnn	tenascin N	1		collagen-containing extracellular matrix			ISO	Q9UQP3 	J:164563 	
+MGI:2665790	Tnn	tenascin N	1		extracellular matrix			IDA		J:87910 	
+MGI:2665790	Tnn	tenascin N	1		tenascin complex			IPI		J:87910 	
+MGI:2665790	Tnn	tenascin N	1		tenascin complex			ISO	Q9UQP3 	J:164563 	
+MGI:99516	Tnr	tenascin R	1		collagen-containing extracellular matrix			IBA	PTN000441162 	J:265628 	
+MGI:99516	Tnr	tenascin R	1		collagen-containing extracellular matrix			IDA		J:315019 	
+MGI:99516	Tnr	tenascin R	1		extracellular matrix	adjacent to a CNS neuron (sensu Vertebrata)		IDA		J:146166 	
+MGI:99516	Tnr	tenascin R	1		extracellular matrix	is a part of optic nerve		IDA		J:19389 	
+MGI:99516	Tnr	tenascin R	1		extracellular matrix			ISO	RGD:3886 	J:155856 	
+MGI:99516	Tnr	tenascin R	1		perineuronal net	is a part of optic nerve		IDA		J:55338 	
+MGI:99516	Tnr	tenascin R	1		perineuronal net			IDA		J:315019 	
+MGI:99516	Tnr	tenascin R	1		perisynaptic extracellular matrix			ISO	RGD:3886 	J:155856 	
+MGI:99516	Tnr	tenascin R	1		tenascin complex			IPI		J:314849 	
+MGI:1932137	Tnxb	tenascin XB	17		collagen-containing extracellular matrix	is a part of islets of Langerhans	UniProtKB:O35452	HDA		J:265607 	
+MGI:1932137	Tnxb	tenascin XB	17		extracellular matrix	is a part of skeletal muscle		IDA		J:208903 	
+MGI:1932137	Tnxb	tenascin XB	17		extracellular matrix			IDA		J:22448 	
+MGI:98821	Trf	transferrin	9		basement membrane			ISO	RGD:3845 	J:155856 	
+MGI:1914123	Tril	TLR4 interactor with leucine-rich repeats	6		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:102757	Try4	trypsin 4	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:3687012	Try10	trypsin 10	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2443855	Tsku	tsukushi, small leucine rich proteoglycan	7		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:1915777	Ucma	upper zone of growth plate and cartilage matrix associated	2		extracellular matrix			IBA	PTN002823505 	J:265628 	
+MGI:1915777	Ucma	upper zone of growth plate and cartilage matrix associated	2		extracellular matrix		PR:Q14BU0-1	IDA		J:130737 	
+MGI:1915777	Ucma	upper zone of growth plate and cartilage matrix associated	2		extracellular matrix	is a part of cartilage		IDA		J:134001 	
+MGI:1341292	Ush2a	usherin	1		basement membrane			IBA	PTN000832450 	J:265628 	
+MGI:1341292	Ush2a	usherin	1		basement membrane			IDA		J:87900 	
+MGI:1341292	Ush2a	usherin	1		basement membrane			ISO	O75445 	J:164563 	
+MGI:2177651	Vasn	vasorin	16		extracellular matrix			IBA	PTN001224703 	J:265628 	
+MGI:102889	Vcan	versican	13		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:102889	Vcan	versican	13		collagen-containing extracellular matrix			ISO	RGD:619940 	J:155856 	
+MGI:102889	Vcan	versican	13		extracellular matrix			IBA	PTN001105676 	J:265628 	
+MGI:102889	Vcan	versican	13		extracellular matrix			IDA		J:86321 	
+MGI:102889	Vcan	versican	13		perineuronal net			ISO	RGD:619940 	J:155856 	
+MGI:103178	Vegfa	vascular endothelial growth factor A	17		basement membrane			ISO	RGD:619991 	J:155856 	
+MGI:1921449	Vit	vitrin	17		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1921449	Vit	vitrin	17		extracellular matrix			IDA		J:139122 	
+MGI:1921449	Vit	vitrin	17		interstitial matrix			IBA	PTN000542875 	J:265628 	
+MGI:1921449	Vit	vitrin	17		interstitial matrix	is a part of cartilage		IDA		J:139122 	
+MGI:98940	Vtn	vitronectin	11		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:98940	Vtn	vitronectin	11		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:98940	Vtn	vitronectin	11		collagen-containing extracellular matrix			IBA	PTN000531402 	J:265628 	
+MGI:98940	Vtn	vitronectin	11		collagen-containing extracellular matrix			ISO	P04004 	J:164563 	
+MGI:98940	Vtn	vitronectin	11		extracellular matrix			IDA		J:98248 	
+MGI:2179729	Vwa1	von Willebrand factor A domain containing 1	4		basement membrane			IDA		J:139122 J:139369 	
+MGI:2179729	Vwa1	von Willebrand factor A domain containing 1	4		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:2179729	Vwa1	von Willebrand factor A domain containing 1	4		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2179729	Vwa1	von Willebrand factor A domain containing 1	4		extracellular matrix	is a part of cartilage		IDA		J:110553 	
+MGI:2179729	Vwa1	von Willebrand factor A domain containing 1	4		extracellular matrix			IDA		J:139122 	
+MGI:2179729	Vwa1	von Willebrand factor A domain containing 1	4		interstitial matrix	is a part of cartilage		IDA		J:139122 	
+MGI:2684334	Vwa2	von Willebrand factor A domain containing 2	19		basement membrane			IBA	PTN002770492 	J:265628 	
+MGI:2684334	Vwa2	von Willebrand factor A domain containing 2	19		basement membrane	is a part of skin|is a part of collecting duct|is a part of macula densa|is a part of renal distal tubule|is a part of ureter		IDA		J:154510 	
+MGI:2684334	Vwa2	von Willebrand factor A domain containing 2	19		collagen-containing extracellular matrix			IBA	PTN002770396 	J:265628 	
+MGI:1915026	Vwa5a	von Willebrand factor A domain containing 5A	9		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:1915026	Vwa5a	von Willebrand factor A domain containing 5A	9		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:2442987	Vwc2	von Willebrand factor C domain containing 2	11		basement membrane			IDA		J:139122 	
+MGI:2442987	Vwc2	von Willebrand factor C domain containing 2	11		extracellular matrix			IDA		J:139122 	
+MGI:2442987	Vwc2	von Willebrand factor C domain containing 2	11		interstitial matrix			IDA		J:139122 	
+MGI:98941	Vwf	Von Willebrand factor	6		collagen-containing extracellular matrix	is a part of lung|is a part of colon		HDA		J:265604 	
+MGI:98941	Vwf	Von Willebrand factor	6		collagen-containing extracellular matrix	is a part of islets of Langerhans		HDA		J:265607 	
+MGI:98941	Vwf	Von Willebrand factor	6		collagen-containing extracellular matrix			ISO	RGD:621759 	J:155856 	
+MGI:98941	Vwf	Von Willebrand factor	6		collagen-containing extracellular matrix			ISO	P04275 	J:164563 	
+MGI:98941	Vwf	Von Willebrand factor	6		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:98954	Wnt2	wingless-type MMTV integration site family, member 2	6		collagen-containing extracellular matrix			ISO	P09544 	J:164563 	
+MGI:98955	Wnt3	wingless-type MMTV integration site family, member 3	11		extracellular matrix			IDA		J:21428 	
+MGI:98957	Wnt4	wingless-type MMTV integration site family, member 4	4		extracellular matrix			IDA		J:21428 	
+MGI:98958	Wnt5a	wingless-type MMTV integration site family, member 5A	14		extracellular matrix			IDA		J:21428 	
+MGI:98959	Wnt5b	wingless-type MMTV integration site family, member 5B	6		extracellular matrix			IDA		J:21428 	
+MGI:98960	Wnt6	wingless-type MMTV integration site family, member 6	1		extracellular matrix			IDA		J:21428 	
+MGI:98961	Wnt7a	wingless-type MMTV integration site family, member 7A	6		extracellular matrix			IDA		J:21428 	
+MGI:101948	Wnt11	wingless-type MMTV integration site family, member 11	7		extracellular matrix			IDA		J:34644 	
+MGI:106656	Zan	zonadhesin	5		extracellular matrix			IBA	PTN000885756 	J:265628 	
+MGI:1916286	Zg16	zymogen granule protein 16	7		collagen-containing extracellular matrix			ISO	O60844 	J:164563 	
+MGI:103073	Zp1	zona pellucida glycoprotein 1	19		collagen-containing extracellular matrix			IBA	PTN001155571 	J:265628 	
+MGI:103073	Zp1	zona pellucida glycoprotein 1	19		collagen-containing extracellular matrix			IDA		J:75669 	
+MGI:103073	Zp1	zona pellucida glycoprotein 1	19		egg coat			IBA	PTN002511490 	J:265628 	
+MGI:103073	Zp1	zona pellucida glycoprotein 1	19		egg coat			ISO	P60852 	J:164563 	
+MGI:99214	Zp2	zona pellucida glycoprotein 2	7		collagen-containing extracellular matrix			IBA	PTN001155571 	J:265628 	
+MGI:99214	Zp2	zona pellucida glycoprotein 2	7		collagen-containing extracellular matrix			IDA		J:75669 	
+MGI:99214	Zp2	zona pellucida glycoprotein 2	7		egg coat			IBA	PTN002511490 	J:265628 	
+MGI:99214	Zp2	zona pellucida glycoprotein 2	7		egg coat			ISO	Q05996 	J:164563 	
+MGI:99215	Zp3	zona pellucida glycoprotein 3	5		collagen-containing extracellular matrix			IDA		J:75669 J:169986 	
+MGI:99215	Zp3	zona pellucida glycoprotein 3	5		collagen-containing extracellular matrix			ISO	P21754 	J:164563 	
+MGI:99215	Zp3	zona pellucida glycoprotein 3	5		egg coat			ISO	P21754 	J:164563 	
+MGI:99215	Zp3	zona pellucida glycoprotein 3	5		extracellular matrix			IBA	PTN000171662 	J:265628 	
+

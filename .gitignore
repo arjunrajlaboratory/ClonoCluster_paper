@@ -37,3 +37,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Mac crap
+.DS_store
+
+# Raw data too large to upload
+Data_genes/
