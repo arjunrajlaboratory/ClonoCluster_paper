@@ -43,3 +43,4 @@ vignettes/*.pdf
 
 # Raw data too large to upload
 Data_genes/
+*.tpxz

@@ -12,14 +12,12 @@ Due to size limitations, the raw data for this study cannot be directy hosted on
 
 ```
 pixz -d BarCluster_raw_data.tpxz
-
 ```
 
 Then untar the package.
 
 ```
 tar -xvf BarCluster_raw_data.tar
-
 ```
 
 Now copy the two folders into the repository.
