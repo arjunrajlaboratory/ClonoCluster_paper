@@ -157,6 +157,8 @@ There are 9 replicates from six sources in the raw data, the short names for the
 
       11. `Figure_S6.pdf` - from `Fig4.R` output
 
+      12. `Dataset_table.pdf` - Pdf of Table 1, datasets used in the study
+
 ## Walkthrough
 
 The entire analysis may be rerun from the package directory with `source("Run_full_analysis.R")`. You may also run portions of the analysis following the walkthrough below:
