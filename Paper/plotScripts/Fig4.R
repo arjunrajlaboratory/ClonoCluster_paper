@@ -1,6 +1,6 @@
 library(data.table)
 library(magrittr)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)

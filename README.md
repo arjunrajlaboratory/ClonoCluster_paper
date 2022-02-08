@@ -1,29 +1,29 @@
-# BarCluster_paper
+# ClonoCluster_paper
 
 ## Intro
 
-Raw data and analysis scripts for the *BarCluster* paper. Includes additional figures generated and analyses that were not present in the publication.
+Raw data and analysis scripts for the *ClonoCluster* paper. Includes additional figures generated and analyses that were not present in the publication.
 
-For the actual distributed open source software, including worked examples, check out [this repository](https://github.com/leeprichman/BarCluster).
+For the actual distributed open source software, including worked examples, check out [this repository](https://github.com/leeprichman/ClonoCluster).
 
 ## Get the raw data
 
 Due to size limitations, the raw data for this study cannot be directy hosted on GitHub. I have compressed it and uploaded it with the release of this package. You will need to download and install [`pixz`](https://github.com/vasi/pixz) to uncompress this package.
 
 ```
-pixz -d BarCluster_raw_data.tpxz
+pixz -d ClonoCluster_raw_data.tpxz
 ```
 
 Then untar the package.
 
 ```
-tar -xvf BarCluster_raw_data.tar
+tar -xvf ClonoCluster_raw_data.tar
 ```
 
 Now copy the two folders into the repository.
 
 ```
-cp Data_genes/ ./BarCluster_paper/Data/
+cp Data_genes/ ./ClonoCluster_paper/Data/
 ```
 
 ## Datasets
@@ -53,7 +53,7 @@ There are 9 replicates from six sources in the raw data, the short names for the
     * `Run_full_analysis.R` - script that when run will run the complete analysis and generate all processed data and figures by running scripts in the `extractionScripts/` and `plotScripts/` directories. Fully annotated and may be run line by line or sourced from the package root directory.
 
     ```
-    setwd("BarCluster_paper/")
+    setwd("ClonoCluster_paper/")
 
     source("Run_full_analysis.R")
 
@@ -165,7 +165,7 @@ The entire analysis may be rerun from the package directory with `source("Run_fu
 
   1. Set working directory.
   ```
-  setwd("BarCluster_paper")
+  setwd("ClonoCluster_paper")
   ```
 
   2. Establish needed variables with sample names and alpha analysis values.
@@ -234,7 +234,7 @@ The entire analysis may be rerun from the package directory with `source("Run_fu
   source("Paper/plotScripts/Labeled_umaps.R")
   ```
 
-  15. Generate supplemental analyses showing how BarCluster works (Figure S1).
+  15. Generate supplemental analyses showing how ClonoCluster works (Figure S1).
   ```
   source("Paper/plotScripts/Model_edge_weights.R") # show curves for how model influences edge weight at beta = 0.1
   source("Paper/plotScripts/grid_graph.R") # simulation of network graphs with alpha

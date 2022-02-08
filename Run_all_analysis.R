@@ -1,6 +1,6 @@
 
 #  1. Set working directory.
-setwd("BarCluster_paper")
+setwd("ClonoCluster_paper")
 
 
 #2. Establish needed variables with sample names and alpha analysis values.
@@ -43,6 +43,6 @@ source("Paper/plotScripts/Fig4_clusters.R")
 #14. Generate UMAP and Sankeys as in Figure 5, showing the combined hybrid clustering and warp factor.
 source("Paper/plotScripts/Labeled_umaps.R")
 
-#15. Generate supplemental analyses showing how BarCluster works (Figure S1).
+#15. Generate supplemental analyses showing how ClonoCluster works (Figure S1).
   source("Paper/plotScripts/Model_edge_weights.R") # show curves for how model influences edge weight at beta = 0.1
   source("Paper/plotScripts/grid_graph.R") # simulation of network graphs with alpha

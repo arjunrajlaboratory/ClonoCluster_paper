@@ -1,6 +1,6 @@
 library(magrittr)
 library(data.table)
-library(clusTCR)
+library(ClonoCluster)
 library(ggplot2)
 library(scales)
 

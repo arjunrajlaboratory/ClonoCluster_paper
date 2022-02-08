@@ -1,6 +1,6 @@
 library(magrittr)
 library(data.table)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)
@@ -35,7 +35,7 @@ lapply(sn_v, function(sn){
   rnl <- bt[Barcode %chin% wl, rn]
 
   # plot
-  p <- BarCluster::Plot_alluvia(dl[alpha %in% c(0, al) & rn %chin% rnl],
+  p <- ClonoCluster::Plot_alluvia(dl[alpha %in% c(0, al) & rn %chin% rnl],
                     bt[Barcode %chin% wl],
                     ylab = "Number of cells",
                     xlab = NULL,

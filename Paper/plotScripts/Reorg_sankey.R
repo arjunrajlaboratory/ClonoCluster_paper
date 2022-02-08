@@ -1,6 +1,6 @@
 library(magrittr)
 library(data.table)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)
@@ -306,7 +306,7 @@ plotl <- lapply(sn_v, function(sn){
                   plot.title = element_text(size = 8, face = "bold", color = "black", hjust = 0.5),
                   plot.subtitle = element_text(size = 8, color = "black"))
 
-    colv <- c("grey", BarCluster::cw_colors)
+    colv <- c("grey", ClonoCluster::cw_colors)
 
     cn <- dl[alpha == 0, rn %>% unique %>% length]
 

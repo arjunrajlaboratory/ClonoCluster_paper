@@ -1,6 +1,6 @@
 library(magrittr)
 library(data.table)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)
@@ -59,7 +59,7 @@ lapply(fl, function(f){
   dtw <- dtw[, .SD, .SDcols = c("rn", ll)]
 
   # convert to matrix
-  m <- BarCluster::dt2m(dtw)
+  m <- ClonoCluster::dt2m(dtw)
 
   # heatmap
   hm <- pheatmap::pheatmap(m,

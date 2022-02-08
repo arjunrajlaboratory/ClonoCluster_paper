@@ -1,8 +1,7 @@
 library(magrittr)
 library(data.table)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
-library(randomcoloR)
 
 set.seed(42)
 
@@ -69,7 +68,7 @@ lapply(sn_v, function(sn){
   }
 
   # get hybrid clusters
-  dl <- barcluster(irl, bt, alpha = als, res = res, method = method)
+  dl <- clonocluster(irl, bt, alpha = als, res = res, method = method)
 
   # warp pca at these levels
   gl <- lapply(c(0,5), function(w){
@@ -266,7 +265,7 @@ if (!sn %chin% c("CJ", "NJ", paste("MDA", 1:2, sep = ""), paste("WM983", 1:2, se
 
 }
 
-dl <- barcluster(irl, bt, alpha = als, res = res, method = method)
+dl <- clonocluster(irl, bt, alpha = als, res = res, method = method)
 
 # warp pca at these levels
 gl <- lapply(c(0,9.9), function(w){
@@ -464,8 +463,8 @@ pli <- lapply(gv %>% seq_along, function(n){
                             border_size = 0.5,
                             label_nodes = TRUE,
                             flow_alpha = 1,
-                            cols = c("gray", BarCluster::cw_colors[2]),
-                            alluvia_cols = c("gray100", BarCluster::cw_colors[2]),
+                            cols = c("gray", ClonoCluster::cw_colors[2]),
+                            alluvia_cols = c("gray100", ClonoCluster::cw_colors[2]),
                             col2 = "gray100",
                             label_size = 1.75,
                             )

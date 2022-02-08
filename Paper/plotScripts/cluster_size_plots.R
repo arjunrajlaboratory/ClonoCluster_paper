@@ -1,6 +1,6 @@
 library(magrittr)
 library(data.table)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)
@@ -13,7 +13,7 @@ lapply(sn_v, function(sn){
 
   print(sn)
 
-  # read barcluster assignments
+  # read ClonoCluster assignments
   fl <- list.files(pdir, full.names = TRUE, pattern = "cluster_assignment")
 
   dt <- fl[fl %like% sn] %>% data.table::fread()

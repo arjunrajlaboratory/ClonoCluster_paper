@@ -1,6 +1,6 @@
 library(magrittr)
 library(data.table)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)
@@ -206,8 +206,8 @@ lapply(sn_v, function(sn){
                               border_size = 0.25,
                               label_nodes = FALSE,
                               flow_alpha = 1,
-                              cols = c("gray", BarCluster::cw_colors[2]),
-                              alluvia_cols = c("gray100", BarCluster::cw_colors[2]),
+                              cols = c("gray", ClonoCluster::cw_colors[2]),
+                              alluvia_cols = c("gray100", ClonoCluster::cw_colors[2]),
                               col2 = "gray100"
                               )
 

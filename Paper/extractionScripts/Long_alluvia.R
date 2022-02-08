@@ -1,6 +1,6 @@
 library(magrittr)
 library(data.table)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)
@@ -76,10 +76,10 @@ lapply(sn_v, function(sn){
 
   beta_val <- 0.1
 
-  # barcluster for range of alpha values
+  # ClonoCluster for range of alpha values
   dl <- lapply(seq(0, 1, by = 0.05), function(alpha){
 
-    mm2 <- barcluster_model(alpha = alpha, beta = beta_val, m = m, nm = nm)
+    mm2 <- clonocluster_model(alpha = alpha, beta = beta_val, m = m, nm = nm)
 
     ids_b <- Seurat:::RunModularityClustering(SNN = mm2, modularity = 1,
             resolution = res, algorithm = 1, n.start = 1,

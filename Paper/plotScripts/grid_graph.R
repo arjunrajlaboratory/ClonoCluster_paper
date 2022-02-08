@@ -1,6 +1,6 @@
 library(data.table)
 library(magrittr)
-library(BarCluster)
+library(ClonoCluster)
 library(ggplot2)
 
 set.seed(42)
@@ -75,9 +75,9 @@ nm <- build_barcode_matrix_fast(bt)
 # return hybrid graph and cluster assignments over alphas
 ml <- lapply(alphas, function(a){
 
-  mm2 <- barcluster_model(alpha = a, beta = 1, m = m, nm = nm)
+  mm2 <- clonocluster_model(alpha = a, beta = 1, m = m, nm = nm)
 
-  d <- barcluster(irl, bt, alpha = a, beta = 1, res = 2)
+  d <- clonocluster(irl, bt, alpha = a, beta = 1, res = 2)
 
   return(list(mm2, d))
 
@@ -124,7 +124,7 @@ pl <- lapply(ml %>% seq_along, function(n){
     geom_point(size = bs, col = "white") +
     geom_point(size = bs, shape = 1, col = "black") +
     geom_text(aes(col = as.factor(Group), label = Barcode), size = (bs - 1), fontface = "bold") +
-    scale_color_manual(values = BarCluster::c25) +
+    scale_color_manual(values = ClonoCluster::c25) +
     theme_void() +
     theme(legend.position = "none", plot.title = element_text(size = 8, hjust = 0.5, face = "bold")) +
     ggtitle(paste("\u03B1", "=", al))
