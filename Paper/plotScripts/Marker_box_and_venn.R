@@ -76,7 +76,7 @@ pll <- lapply(sn_v, function(sn){
   lvec <- c(paste("Transcriptome\n", "@", " = 0", sep = ""),
   paste("Low @\n", "@", " = ", a2, sep = ""),
   paste("High @\n", "@", " = ", a, sep = ""),
-  paste("Barcodes\n", "@", " = 1", sep = ""))
+  paste("Clone clusters\n", "@", " = 1", sep = ""))
 
   # best top markers boxplot
   p4 <- ggplot(st[sample_id == sn & alpha %in% c(0, a2, a, 1)],
@@ -110,7 +110,7 @@ library(VennDiagram)
 hexs <- colorRampPalette(c("#FFFFFF", "dodgerblue"))(10)[c(2,4,6,8)]
 
 # set up our classification colors
-names(hexs) <- c("Transcriptome", "Low @", "High @", "Barcodes")
+names(hexs) <- c("Transcriptome", "Low @", "High @", "Clone\nclusters")
 
 fl <- list.files(pdir, pattern = "auc_linclust", full.names = TRUE)
 
@@ -142,7 +142,7 @@ vl <- lapply(c(1:10), function(r){
   lvec <- c(paste("Transcriptome\n", "@", " = 0", sep = ""),
   paste("Low @\n", "@", " = ", a2, sep = ""),
   paste("High @\n", "@", " = ", a, sep = ""),
-  paste("Barcodes\n", "@", " = 1", sep = ""))
+  paste("Clone\nclusters\n", "@", " = 1", sep = ""))
 
   # generate initial figure to edit
   venn.plot <- VennDiagram::venn.diagram(list(low, barc, mid, high), filename = NULL,
