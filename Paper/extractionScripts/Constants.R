@@ -3,6 +3,7 @@ library(data.table)
 library(ClonoCluster)
 library(ggplot2)
 library(WebGestaltR)
+library(entropy)
 
 # NJ Neuro-directed iPSC alevel = 0.8
 

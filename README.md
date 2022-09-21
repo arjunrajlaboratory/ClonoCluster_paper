@@ -6,6 +6,20 @@ Raw data and analysis scripts for the *ClonoCluster* paper. Includes additional 
 
 For the actual distributed open source software, including worked examples, check out [this repository](https://github.com/leeprichman/ClonoCluster).
 
+## Dependencies
+
+In addition to installing [`ClonoCluster`](https://github.com/leeprichman/ClonoCluster), this workflow requires the following R packages from CRAN:
+
+ * `magrittr`
+
+ * `data.table`
+
+ * `ggplot2`
+
+ * `entropy`
+
+ * `WebGestaltR`
+
 ## Get the raw data
 
 Due to size limitations, the raw data for this study cannot be directy hosted on GitHub. I have compressed it and uploaded it with the release of this package. You will need to download and install [`pixz`](https://github.com/vasi/pixz) to uncompress this package.
