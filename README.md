@@ -48,7 +48,7 @@ There are 9 replicates from six sources in the raw data, the short names for the
 
   * **Kleind2ws**: murine hematopoietic stem cells differentiating *in vitro* harvested at day 2, [link](https://www.science.org/doi/10.1126/science.aaw3381).
 
-  * **CJ**: human induced pluripotent stem cell line directed toward cardiomyocyte fate, [link](https://www.biorxiv.org/content/10.1101/2021.08.08.455532v1).
+  * **CJ**: human induced pluripotent stem cell line directed toward cardiomyocyte fate, [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02654-6).
 
   * **WM9891-2**: WM983b melanoma cells treated with vemurafenib (2 replicates), [link](https://www.biorxiv.org/content/10.1101/2021.12.08.471833v1).
 
