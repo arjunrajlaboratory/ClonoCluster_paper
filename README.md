@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/436687556.svg)](https://zenodo.org/badge/latestdoi/436687556)
+
 # ClonoCluster_paper
 
 ## Intro
@@ -22,7 +24,7 @@ In addition to installing [`ClonoCluster`](https://github.com/leeprichman/ClonoC
 
 ## Get the raw data
 
-Due to size limitations, the raw data for this study cannot be directy hosted on GitHub. I have compressed it and uploaded it with the release of this package. You will need to download and install [`pixz`](https://github.com/vasi/pixz) to uncompress this package.
+Due to size limitations, the raw data for this study cannot be directy hosted on GitHub. I have compressed it and uploaded it with the release of this package. You will need to download ([click here](https://github.com/arjunrajlaboratory/ClonoCluster_paper/releases/download/v.0.0.1-alpha/BarCluster_raw_data.tpxz)) and install [`pixz`](https://github.com/vasi/pixz) to uncompress this package.
 
 ```
 pixz -d ClonoCluster_raw_data.tpxz
@@ -34,10 +36,11 @@ Then untar the package.
 tar -xvf ClonoCluster_raw_data.tar
 ```
 
-Now copy the two folders into the repository.
+Now copy the data folder into the repository.
 
 ```
 cp Data_genes/ ./ClonoCluster_paper/Data/
+
 ```
 
 ## Datasets
