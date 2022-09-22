@@ -46,3 +46,6 @@ source("Paper/plotScripts/Labeled_umaps.R")
 #15. Generate supplemental analyses showing how ClonoCluster works (Figure S1).
   source("Paper/plotScripts/Model_edge_weights.R") # show curves for how model influences edge weight at beta = 0.1
   source("Paper/plotScripts/grid_graph.R") # simulation of network graphs with alpha
+
+#16. Generate supplemental entropy for cell types analysis (Figure S7).
+source("Paper/plotScripts/Heme_comp.R")

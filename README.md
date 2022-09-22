@@ -105,19 +105,21 @@ There are 9 replicates from six sources in the raw data, the short names for the
 
       6. `grid_graph.R` - generate simulated representation of network graphs, Figure S1B.
 
-      7. `Labeled_umaps.R` - generate UMAPs and Sankey plots showing combined warp factor and hybrid clustering in Figure 5.
+      7. `Heme_comp.R` - Plots of entropy of hematopoietic cell types from Weinreb et al., Figure S7.
 
-      8. `Marker_box_and_venn.R` - generate boxplots of top cluster marker strength for all samples as in Figure 2A and Figure S5B, as well as venn diagrams for top cluster marker overlap as in Figure S4.
+      8. `Labeled_umaps.R` - generate UMAPs and Sankey plots showing combined warp factor and hybrid clustering in Figure 5.
 
-      9. `Marker_sankey.R` - Sankeys of marker positivity, as in Figure 2B-D.
+      9. `Marker_box_and_venn.R` - generate boxplots of top cluster marker strength for all samples as in Figure 2A and Figure S5B, as well as venn diagrams for top cluster marker overlap as in Figure S4.
 
-      10. `Marker_turnover_hm.R` - Heatmaps of top cluster marker AUC at each alpha level, as in Figure S5A.
+      10. `Marker_sankey.R` - Sankeys of marker positivity, as in Figure 2B-D.
 
-      11. `Model_edge_weights.R` - generate plots of network graph edge weight vs alpha, Figure S1A.
+      11. `Marker_turnover_hm.R` - Heatmaps of top cluster marker AUC at each alpha level, as in Figure S5A.
 
-      12. `Reorg_sankey.R` - Sankey plots showing schematic of how reorganization marker AUCs are determined, as in Figure S3B.
+      12. `Model_edge_weights.R` - generate plots of network graph edge weight vs alpha, Figure S1A.
 
-      13. `Short_alluvia.R` - Sankey plots of just 3 clustering levels, transcriptome, high and low alpha, as in Figure 1E.
+      13. `Reorg_sankey.R` - Sankey plots showing schematic of how reorganization marker AUCs are determined, as in Figure S3B.
+
+      14. `Short_alluvia.R` - Sankey plots of just 3 clustering levels, transcriptome, high and low alpha, as in Figure 1E.
 
     + `plots/` - Output from plot scripts, divided into sub folders.
 
@@ -129,23 +131,25 @@ There are 9 replicates from six sources in the raw data, the short names for the
 
       4. `Confusion/` - `Confusion_stats.R` output, cohen's kappa vs alpha level plots for all samples
 
-      5. `Gene_umaps/` - `Labeled_umaps.R` output, UMAPs showing high alpha cluster of interest and contributing transcriptome clusters
+      5. `entropy/` - `Heme_comp.R` output, single plot of entropy for each cell type with different clustering methods
 
-      6. `Long_alluvia/` - `Long_alluvia.R` output, Sankey for all samples for all alpha iterations
+      6. `Gene_umaps/` - `Labeled_umaps.R` output, UMAPs showing high alpha cluster of interest and contributing transcriptome clusters
 
-      7. `Short_alluvia/` - `Short_alluvia.R` output, Sankey for all samples for Transcriptome, high alpha, and low alpha level
+      7. `Long_alluvia/` - `Long_alluvia.R` output, Sankey for all samples for all alpha iterations
 
-      8. `top_markers_box/` - `Marker_box_and_venn.R` output, boxplots of overall cluster marker AUC
+      8. `Short_alluvia/` - `Short_alluvia.R` output, Sankey for all samples for Transcriptome, high alpha, and low alpha level
 
-      9. `Turnover_hm/` - `Marker_turnover_hm.R` output, heatmaps of the AUC of the union of top cluster markers at all alpha levels
+      9. `top_markers_box/` - `Marker_box_and_venn.R` output, boxplots of overall cluster marker AUC
 
-      10. `Venn/` - `Marker_box_and_venn.R` output, venn diagrams of top cluster markers for all samples.
+      10. `Turnover_hm/` - `Marker_turnover_hm.R` output, heatmaps of the AUC of the union of top cluster markers at all alpha levels
 
-      11. `warped/` - `Fig4_clusters.R` output, demonstrations of UMAP warp factor on the datasets.
+      11. `Venn/` - `Marker_box_and_venn.R` output, venn diagrams of top cluster markers for all samples.
 
-      12. `reorg_hm/` - `geneset_hm.R` output, heatmaps of gene set overrepresentation analysis results
+      12. `warped/` - `Fig4_clusters.R` output, demonstrations of UMAP warp factor on the datasets.
 
-      13. `simulations/` - `grid_graph.R` and `Fig4.R` output, simulated data results
+      13. `reorg_hm/` - `geneset_hm.R` output, heatmaps of gene set overrepresentation analysis results
+
+      14. `simulations/` - `grid_graph.R` and `Fig4.R` output, simulated data results
 
     + `finalFigures/` - pdfs of figures for the final manuscript
 
@@ -171,7 +175,9 @@ There are 9 replicates from six sources in the raw data, the short names for the
 
       11. `Figure_S6.pdf` - from `Fig4.R` output
 
-      12. `Dataset_table.pdf` - Pdf of Table 1, datasets used in the study
+      12. `Figure_S7.pdf` - from `Heme_comp.R` output
+
+      13. `Dataset_table.pdf` - Pdf of Table 1, datasets used in the study
 
 ## Walkthrough
 
@@ -252,6 +258,11 @@ The entire analysis may be rerun from the package directory with `source("Run_fu
   ```
   source("Paper/plotScripts/Model_edge_weights.R") # show curves for how model influences edge weight at beta = 0.1
   source("Paper/plotScripts/grid_graph.R") # simulation of network graphs with alpha
+  ```
+
+  16. Generate entropy analysis for hematopoietic sample.
+  ```
+  source("Paper/plotScripts/Heme_comp.R")
   ```
 
 ## Citation
